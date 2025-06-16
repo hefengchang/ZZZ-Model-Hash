@@ -66,9 +66,9 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "dd91b126",
         "position_vb": "183df742",
-        "blend_vb": "376b601d",
         "texcoord_vb": "2b4afe3c",
-        "ib": "53d3f4e5",
+        "blend_vb": "376b601d",
+        "ib": "3431e8b4",
         "object_indexes": [
             0
         ],
