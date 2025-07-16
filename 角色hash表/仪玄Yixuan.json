@@ -119,11 +119,11 @@
     },
     {
         "component_name": "Bottle-葫芦",
-        "draw_vb": "d000beae",
-        "position_vb": "d0ff2c18",
-        "texcoord_vb": "f05da93a",
-        "blend_vb": "55638d51",
-        "ib": "0219df6e",
+        "draw_vb": "05466ddf",
+        "position_vb": "8555098d",
+        "texcoord_vb": "ff4b112b",
+        "blend_vb": "d89da8eb",
+        "ib": "1630f2d0",
         "object_indexes": [
             0,
             66
