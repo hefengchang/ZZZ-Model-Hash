@@ -180,6 +180,44 @@
         ]
     },
     {
+        "component_name": "Leopard cat-狸猫",
+        "draw_vb": "39b6000b",
+        "position_vb": "9662128e",
+        "texcoord_vb": "f95d8b57",
+        "blend_vb": "ba80c02b",
+        "ib": "81bca595",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "be85f061"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ef192425"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "76e5c6b7"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Straps-狸猫背带",
         "draw_vb": "966e777b",
         "position_vb": "b543b8d8",
