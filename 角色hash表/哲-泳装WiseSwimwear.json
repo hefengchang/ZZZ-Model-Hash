@@ -1,11 +1,11 @@
 [
     {
         "component_name": "Hair-头发",
-        "draw_vb": "ba59bf09",
-        "position_vb": "6235fa7f",
-        "texcoord_vb": "fe89498c",
-        "blend_vb": "1273c7b0",
-        "ib": "d5ca0411",
+        "draw_vb": "77045a80",
+        "position_vb": "16ac44f6",
+        "texcoord_vb": "5c5bde90",
+        "blend_vb": "82396952",
+        "ib": "cb272754",
         "object_indexes": [
             0
         ],
@@ -39,11 +39,11 @@
     },
     {
         "component_name": "Hair Shadow-头发阴影",
-        "draw_vb": "af5fc216",
-        "position_vb": "1a438b0d",
-        "texcoord_vb": "7b7957fa",
-        "blend_vb": "52bd07dd",
-        "ib": "8d08b190",
+        "draw_vb": "8e9a12c7",
+        "position_vb": "14fff21a",
+        "texcoord_vb": "49d81f9a",
+        "blend_vb": "a2c79f8d",
+        "ib": "3f771e63",
         "object_indexes": [
             0
         ],
@@ -57,23 +57,25 @@
     },
     {
         "component_name": "Body-身体",
-        "draw_vb": "b581dc0a",
-        "position_vb": "67f21c9f",
-        "texcoord_vb": "f425bd04",
-        "blend_vb": "46462bd8",
-        "ib": "8d6acf4e",
+        "draw_vb": "18e704a8",
+        "position_vb": "d6c86c1e",
+        "texcoord_vb": "acfe9fe4",
+        "blend_vb": "9741e2f0",
+        "ib": "4fe696c8",
         "object_indexes": [
-            0
+            0,
+            52278
         ],
         "object_classifications": [
-            "A"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "868709f2"
+                    "d476035d"
                 ],
                 [
                     "NormalMap",
@@ -83,35 +85,19 @@
                 [
                     "LightMap",
                     ".dds",
-                    "088718a9"
+                    "0fa8f99c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "a5fdb5e7"
+                    "c2c8606e"
                 ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Bag-背包",
-        "draw_vb": "24ca2d36",
-        "position_vb": "19f96193",
-        "texcoord_vb": "2ae08ae7",
-        "blend_vb": "d80dc314",
-        "ib": "b1df5d22",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
+            ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "28005a5b"
+                    "d476035d"
                 ],
                 [
                     "NormalMap",
@@ -121,12 +107,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "8d8269f8"
+                    "0fa8f99c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "f1b20f3d"
+                    "c2c8606e"
                 ]
             ]
         ]
@@ -135,7 +121,7 @@
         "component_name": "Face-脸",
         "VertexLimit": "6c4552bb",
         "Position": "5657c1fc",
-        "Texcoord": "ebe9f31b",
+        "Texcoord": "c83b6cbf",
         "Blend": "757bc7cc",
         "ib": "1fdaf388",
         "MatchFirstIndex": [

@@ -1,11 +1,11 @@
 [
     {
         "component_name": "Hair-头发",
-        "draw_vb": "8ca7dc4b",
-        "position_vb": "06c78cb0",
-        "texcoord_vb": "0dda44b1",
-        "blend_vb": "fef908be",
-        "ib": "cdb2cc7d",
+        "draw_vb": "a93fc9a1",
+        "position_vb": "9e8e3811",
+        "texcoord_vb": "887a6214",
+        "blend_vb": "e246fbec",
+        "ib": "f601f643",
         "object_indexes": [
             0
         ],
@@ -17,7 +17,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "eb5d9d1c"
+                    "6e15911b"
                 ],
                 [
                     "NormalMap",
@@ -27,25 +27,25 @@
                 [
                     "LightMap",
                     ".dds",
-                    "1145d2b8"
+                    "48fd827b"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "82153e28"
+                    "8740602f"
                 ]
             ]
         ]
     },
     {
         "component_name": "Hair Shadow-头发阴影",
-        "draw_vb": "8119483f",
-        "position_vb": "112f8365",
-        "texcoord_vb": "bd58eaab",
-        "blend_vb": "950dc06c",
-        "ib": "5116f2cb",
+        "draw_vb": "3d83f929",
+        "position_vb": "9702c71e",
+        "texcoord_vb": "fc566cba",
+        "blend_vb": "42b50496",
+        "ib": "7b54b96f",
         "object_indexes": [
-            1
+            0
         ],
         "object_classifications": [
             "A"
@@ -57,11 +57,11 @@
     },
     {
         "component_name": "Body-身体",
-        "draw_vb": "03e8990d",
-        "position_vb": "41149c54",
-        "texcoord_vb": "4c259bf3",
-        "blend_vb": "17471aea",
-        "ib": "2825da1e",
+        "draw_vb": "a31d576e",
+        "position_vb": "a1566c40",
+        "texcoord_vb": "fc0d07a3",
+        "blend_vb": "f6f9cc24",
+        "ib": "4a938c0a",
         "object_indexes": [
             0
         ],
@@ -73,7 +73,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "bf44bf67"
+                    "76f42184"
                 ],
                 [
                     "NormalMap",
@@ -83,59 +83,97 @@
                 [
                     "LightMap",
                     ".dds",
-                    "95f4e9c8"
+                    "e6c9a6e1"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "ed47722f"
+                    "1d7b458d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Tail-尾巴",
+        "draw_vb": "bfa3b361",
+        "position_vb": "e053cbbd",
+        "texcoord_vb": "54db15a2",
+        "blend_vb": "f2c0c20f",
+        "ib": "fafcfe36",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0e474202"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8f2cb44d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "51cc39d5"
                 ]
             ]
         ]
     },
     {
         "component_name": "Face-脸",
-        "VertexLimit": "c32482a8",
-        "Position": "f93611ef",
-        "Texcoord": "1866cf6a",
-        "Blend": "3124a1db",
-        "ib": "9f90cfaa",
+        "VertexLimit": "96baf0ee",
+        "Position": "aca863a9",
+        "Texcoord": "f87ddcae",
+        "Blend": "9cc30b79",
+        "ib": "f6ef8f3a",
         "MatchFirstIndex": [
             "0",
-            "8616"
+            "9336"
         ],
         "PartNameList": [
-            "1",
-            "2"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "802a3281"
+                    "465a66eb"
                 ],
                 [
                     "Diffuse",
                     ".dds",
-                    "802a3281"
+                    "465a66eb"
                 ]
             ]
         ]
     },
     {
-        "component_name": "weapon武器-1-棕发安娜塔莎",
-        "VertexLimit": "c9174fa5",
-        "Position": "e28891a4",
-        "Texcoord": "9be6ba46",
-        "Blend": "bc04a8d9",
-        "ib": "4f795827",
+        "component_name": "weapon武器-镰刀",
+        "VertexLimit": "14ee18a1",
+        "Position": "4140d1e3",
+        "Texcoord": "64df6d71",
+        "Blend": "12c97a8a",
+        "ib": "4ce3a865",
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "7aa85409"
+                    "e9e610cd"
                 ],
                 [
                     "NormalMap",
@@ -145,61 +183,30 @@
                 [
                     "LightMap",
                     ".dds",
-                    "6aec8cd9"
+                    "1721ed1a"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "6d3db8fe"
+                    "9aaa6b4b"
                 ]
             ]
         ]
+
     },
     {
-        "component_name": "weapon武器-1-安娜塔莎-双眼",
-        "VertexLimit": "11d72670",
-        "Position": "941f67ec",
-        "Texcoord": "34a3b201",
-        "Blend": "6fecdfb7",
-        "ib": "8ebe259d",
+        "component_name": "weapon武器-镰刀-弹簧",
+        "VertexLimit": "a063d963",
+        "Position": "4b5ecba8",
+        "Texcoord": "21b31add",
+        "Blend": "4afdcca5",
+        "ib": "2747bdd1",
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "5b418f07"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "b8f3b02a"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "1d68e5ac"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "b990fcb9"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "weapon武器-2-金发杜苏拉",
-        "VertexLimit": "7a72d77f",
-        "Position": "d4492a43",
-        "Texcoord": "8bcd9f92",
-        "Blend": "a59d40f4",
-        "ib": "4fba8b69",
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "7aa85409"
+                    "e9e610cd"
                 ],
                 [
                     "NormalMap",
@@ -209,44 +216,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "6aec8cd9"
+                    "1721ed1a"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "6d3db8fe"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "weapon武器-2-杜苏拉-独眼",
-        "VertexLimit": "16399986",
-        "Position": "187daa68",
-        "Texcoord": "a1695dc5",
-        "Blend": "cc1203fa",
-        "ib": "a6bfc370",
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "5b418f07"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "b8f3b02a"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "1d68e5ac"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "b990fcb9"
+                    "9aaa6b4b"
                 ]
             ]
         ]

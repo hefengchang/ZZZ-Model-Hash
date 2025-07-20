@@ -5,7 +5,7 @@
         "position_vb": "6235fa7f",
         "texcoord_vb": "fe89498c",
         "blend_vb": "1273c7b0",
-        "ib": "f6cac296",
+        "ib": "d5ca0411",
         "object_indexes": [
             0
         ],
@@ -43,7 +43,7 @@
         "position_vb": "1a438b0d",
         "texcoord_vb": "7b7957fa",
         "blend_vb": "52bd07dd",
-        "ib": "83e07a1b",
+        "ib": "8d08b190",
         "object_indexes": [
             0
         ],
@@ -208,44 +208,6 @@
         ]
     }, 
     {
-        "component_name": "Green badge-绿色徽章",
-        "draw_vb": "0406d75f",
-        "position_vb": "46727faa",
-        "texcoord_vb": "e2d09c05",
-        "blend_vb": "e147258a",
-        "ib": "4e8b2454",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "ed1a5b7f"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "f5dc4198"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "5346205a"
-                ]
-            ]
-        ]
-    },
-    {
         "component_name": "white badge-白色徽章",
         "draw_vb": "0406d75f",
         "position_vb": "13e791fa",
@@ -279,6 +241,44 @@
                     "MaterialMap",
                     ".dds",
                     "24af1f48"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Orange green badge-橙绿色徽章",
+        "draw_vb": "e0931b87",
+        "position_vb": "fe8e2ff8",
+        "texcoord_vb": "b6108302",
+        "blend_vb": "d9691e6b",
+        "ib": "eeabff55",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "96ad58d4"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8839d1fc"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cd075caa"
                 ]
             ]
         ]
@@ -322,7 +322,7 @@
         ]
     },
     {
-        "component_name": "ribbon-飘带",
+        "component_name": "Black orange ribbon-黑橙色飘带",
         "draw_vb": "aad48132",
         "position_vb": "139c0e20",
         "texcoord_vb": "0f705b4a",
@@ -355,6 +355,82 @@
                     "MaterialMap",
                     ".dds",
                     "24af1f48"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Orange green ribbon-橙绿色飘带",
+        "draw_vb": "2efc0d70",
+        "position_vb": "e801def3",
+        "texcoord_vb": "bc87900c",
+        "blend_vb": "4851307e",
+        "ib": "e5f269f4",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "96ad58d4"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8839d1fc"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cd075caa"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "glasses-眼镜",
+        "draw_vb": "ba8bde72",
+        "position_vb": "66cabdf9",
+        "texcoord_vb": "ac329cd7",
+        "blend_vb": "a8620018",
+        "ib": "bfce3c18",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ed1a5b7f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f5dc4198"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "5346205a"
                 ]
             ]
         ]

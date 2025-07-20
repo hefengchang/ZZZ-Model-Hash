@@ -1,25 +1,23 @@
 [
     {
         "component_name": "Hair-头发",
-        "draw_vb": "630debc9",
-        "position_vb": "051f9657",
-        "texcoord_vb": "dc2821dc",
-        "blend_vb": "606c88ae",
-        "ib": "7a504287",
+        "draw_vb": "ff8f2723",
+        "position_vb": "f0740488",
+        "texcoord_vb": "af566e38",
+        "blend_vb": "8823a09a",
+        "ib": "ea055cac",
         "object_indexes": [
-            0,
-            18075
+            0
         ],
         "object_classifications": [
-            "A",
-            "B"
+            "A"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "521a3242"
+                    "20954729"
                 ],
                 [
                     "NormalMap",
@@ -29,45 +27,23 @@
                 [
                     "LightMap",
                     ".dds",
-                    "c400f5b7"
+                    "e0a86379"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "3f70d124"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "521a3242"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "c400f5b7"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "3f70d124"
+                    "0298fba2"
                 ]
             ]
         ]
     },
     {
         "component_name": "Hair Shadow-头发阴影",
-        "draw_vb": "8a540628",
-        "position_vb": "3a4533fc",
-        "texcoord_vb": "a39c4806",
-        "blend_vb": "9fc9b6f8",
-        "ib": "afb6117a",
+        "draw_vb": "8c70a1df",
+        "position_vb": "f98fb7ca",
+        "texcoord_vb": "ddf97ec8",
+        "blend_vb": "0fba192e",
+        "ib": "fba5908c",
         "object_indexes": [
             0
         ],
@@ -76,30 +52,72 @@
         ],
         "texture_hashes": [
             [
+            ]
+        ]
+    },
+    {
+        "component_name": "hat-帽子",
+        "draw_vb": "bd2cf1bc",
+        "position_vb": "c6b1cd55",
+        "texcoord_vb": "a8b3bbab",
+        "blend_vb": "b7061769",
+        "ib": "93f38bdd",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "20954729"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e0a86379"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "0298fba2"
+                ]
             ]
         ]
     },
     {
         "component_name": "Body-身体",
-        "draw_vb": "cf3319f6",
-        "position_vb": "a3b56c9b",
-        "texcoord_vb": "3d3199c5",
-        "blend_vb": "be70426a",
-        "ib": "f34fdc84",
+        "draw_vb": "2ceb44ef",
+        "position_vb": "537d9b9b",
+        "texcoord_vb": "f5e62ded",
+        "blend_vb": "6af00597",
+        "ib": "43ed3c22",
         "object_indexes": [
             0,
-            43176
+            46212,
+            46476,
+            48084
         ],
         "object_classifications": [
             "A",
-            "B"
+            "B",
+            "C",
+            "D"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "4f4c2b65"
+                    "20954729"
                 ],
                 [
                     "NormalMap",
@@ -109,19 +127,19 @@
                 [
                     "LightMap",
                     ".dds",
-                    "c3e64779"
+                    "e0a86379"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "ac2f3dcb"
+                    "0298fba2"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "4f4c2b65"
+                    "24639b77"
                 ],
                 [
                     "NormalMap",
@@ -131,59 +149,19 @@
                 [
                     "LightMap",
                     ".dds",
-                    "c3e64779"
+                    "7947679c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "ac2f3dcb"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Accessories-配饰与鞋子",
-        "draw_vb": "ca3209f7",
-        "position_vb": "f271d524",
-        "texcoord_vb": "ce14b4b7",
-        "blend_vb": "294d341c",
-        "ib": "a8de520e",
-        "object_indexes": [
-            0,
-            8493
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "54591ef6"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "a78340ed"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "1d0dabdb"
+                    "33f28c6d"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "54591ef6"
+                    "1ce58567"
                 ],
                 [
                     "NormalMap",
@@ -193,23 +171,45 @@
                 [
                     "LightMap",
                     ".dds",
-                    "a78340ed"
+                    "7d562f53"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "1d0dabdb"
+                    "34bdb036"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "20954729"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e0a86379"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "0298fba2"
                 ]
             ]
         ]
     },
     {
-        "component_name": "Leopard cat-狸猫",
-        "draw_vb": "b6e62152",
-        "position_vb": "9d4425e5",
-        "texcoord_vb": "a7394f34",
-        "blend_vb": "2a45c137",
-        "ib": "14ac0d52",
+        "component_name": "Tshirt-T恤",
+        "draw_vb": "a1de68c0",
+        "position_vb": "324d9d21",
+        "texcoord_vb": "881514bf",
+        "blend_vb": "65481194",
+        "ib": "69148073",
         "object_indexes": [
             0
         ],
@@ -221,7 +221,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "4f4c2b65"
+                    "20954729"
                 ],
                 [
                     "NormalMap",
@@ -231,81 +231,42 @@
                 [
                     "LightMap",
                     ".dds",
-                    "c3e64779"
+                    "e0a86379"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "ac2f3dcb"
+                    "0298fba2"
                 ]
             ]
         ]
     },
     {
         "component_name": "Face-脸",
-        "VertexLimit": "3578d11c",
-        "Position": "0f6a425b",
-        "Texcoord": "9d0f7ef5",
-        "Blend": "52400cce",
-        "ib": "507384ea",
+        "draw_vb": "04abceb5",
+        "position_vb": "3eb95df2",
+        "texcoord_vb": "ccc76aea",
+        "blend_vb": "0c9a075b",
+        "ib": "9a9780a7",
         "MatchFirstIndex": [
             "0",
-            "7206",
-            "9600"
+            "8532"
         ],
         "PartNameList": [
-            "1",
-            "2",
-            "3"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "d394bc13"
+                    "75ec3614"
                 ],
                 [
                     "Diffuse",
                     ".dds",
-                    "d394bc13"
-                ],
-                [
-                    "Diffuse",
-                    ".dds",
-                    "d394bc13"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "weapon武器-伞",
-        "VertexLimit": "b36355ab",
-        "Position": "79849b37",
-        "Texcoord": "d5283f28",
-        "Blend": "d7204982",
-        "ib": "b34a880c",
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "caeee529"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "f74f81e8"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "6657efd2"
+                    "75ec3614"
                 ]
             ]
         ]

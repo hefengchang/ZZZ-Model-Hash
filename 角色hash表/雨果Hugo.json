@@ -380,11 +380,11 @@
     },
     {
         "component_name": "weapon武器-匕首",
-        "ib": "c36d55cf",
-        "Blend": "b64e3c83",
+        "VertexLimit": "247b5b66",
         "Position": "8c936c4b",
         "Texcoord": "849665ce",
-        "VertexLimit": "247b5b66",
+        "Blend": "b64e3c83",
+        "ib": "c36d55cf",
         "texture_hashes": [
             [
                 [

@@ -208,6 +208,44 @@
         ]
     },
     {
+        "component_name": "Orange green ribbon-橙绿色飘带",
+        "draw_vb": "4fc2c5d3",
+        "position_vb": "bdfbdec4",
+        "texcoord_vb": "01118441",
+        "blend_vb": "4e5447eb",
+        "ib": "2ac09c8f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "96ad58d4"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8839d1fc"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cd075caa"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Earrings1-耳钉",
         "draw_vb": "c0eb7af5",
         "position_vb": "fc4bea64",
@@ -366,6 +404,82 @@
         "texcoord_vb": "1ff12440",
         "blend_vb": "e147258a",
         "ib": "4e8b2454",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ed1a5b7f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f5dc4198"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "5346205a"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Orange green badge-橙绿色徽章",
+        "draw_vb": "6c62e9d0",
+        "position_vb": "e837ab1b",
+        "texcoord_vb": "632b2ed3",
+        "blend_vb": "66797141",
+        "ib": "4dcc384f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "96ad58d4"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8839d1fc"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cd075caa"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "glasses-眼镜",
+        "draw_vb": "ba8bde72",
+        "position_vb": "6018a88b",
+        "texcoord_vb": "a70c787c",
+        "blend_vb": "a8620018",
+        "ib": "455bcfc7",
         "object_indexes": [
             0
         ],
