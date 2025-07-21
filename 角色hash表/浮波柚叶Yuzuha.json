@@ -179,7 +179,39 @@
     ]
   },
   {
-    "component_name": "Leopard cat-狸猫",
+    "component_name": "LeopardCat1-狸猫非战斗中形态",
+    "VertexLimit": "1a6468e1",
+    "Position": "773bdaa3",
+    "Texcoord": "a5097f50",
+    "Blend": "085ab253",
+    "ib": "e72984d1",
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "be85f061"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "ebac056e"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "ef192425"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "76e5c6b7"
+        ]
+      ]
+    ]
+  },
+  {
+    "component_name": "LeopardCat2-狸猫战斗中形态",
     "draw_vb": "39b6000b",
     "position_vb": "9662128e",
     "texcoord_vb": "f95d8b57",
@@ -319,38 +351,6 @@
           "MaterialMap",
           ".dds",
           "85142f08"
-        ]
-      ]
-    ]
-  },
-  {
-    "component_name": "weapon武器-狸猫攻击状态",
-    "VertexLimit": "1a6468e1",
-    "Position": "773bdaa3",
-    "Texcoord": "a5097f50",
-    "Blend": "085ab253",
-    "ib": "e72984d1",
-    "texture_hashes": [
-      [
-        [
-          "Diffuse",
-          ".dds",
-          "be85f061"
-        ],
-        [
-          "NormalMap",
-          ".dds",
-          "ebac056e"
-        ],
-        [
-          "LightMap",
-          ".dds",
-          "ef192425"
-        ],
-        [
-          "MaterialMap",
-          ".dds",
-          "76e5c6b7"
         ]
       ]
     ]
