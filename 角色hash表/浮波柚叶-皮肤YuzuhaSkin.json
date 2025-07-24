@@ -80,11 +80,11 @@
   },
   {
     "component_name": "Body-身体",
-    "draw_vb": "cf3319f6",
-    "position_vb": "a3b56c9b",
-    "texcoord_vb": "3d3199c5",
-    "blend_vb": "be70426a",
-    "ib": "f34fdc84",
+    "draw_vb": "07437c27",
+    "position_vb": "2a7b9144",
+    "texcoord_vb": "0c9062c5",
+    "blend_vb": "523cf99d",
+    "ib": "b298482d",
     "object_indexes": [
       0,
       43176
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "component_name": "Leopard cat-狸猫",
+    "component_name": "LeopardCat1-狸猫非战斗中形态",
     "draw_vb": "b6e62152",
     "position_vb": "9d4425e5",
     "texcoord_vb": "a7394f34",
@@ -240,6 +240,44 @@
       ]
     ]
   },
+  {
+    "component_name": "LeopardCat2-狸猫战斗中形态",
+    "draw_vb": "3a2c07d4",
+    "position_vb": "4206500f",
+    "texcoord_vb": "505c10ee",
+    "blend_vb": "173910df",
+    "ib": "51cedd4a",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "4f4c2b65"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "ebac056e"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "c3e64779"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "ac2f3dcb"
+        ]
+      ]
+    ]
+  }，  
   {
     "component_name": "Face-脸",
     "VertexLimit": "3578d11c",
