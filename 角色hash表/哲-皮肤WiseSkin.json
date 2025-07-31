@@ -25,13 +25,13 @@
           "ebac056e"
         ],
         [
-          "LightMap",
-          ".dds",
+          "LightMap"，
+          ".dds"，
           "8d8269f8"
-        ],
+        ]，
         [
-          "MaterialMap",
-          ".dds",
+          "MaterialMap"，
+          ".dds"，
           "f1b20f3d"
         ]
       ]
@@ -46,10 +46,10 @@
     "ib": "8d08b190",
     "object_indexes": [
       0
-    ],
+    ]，
     "object_classifications": [
       "A"
-    ],
+    ]，
     "texture_hashes": [
       []
     ]
@@ -63,22 +63,22 @@
     "ib": "6acc1eb8",
     "object_indexes": [
       0
-    ],
+    ]，
     "object_classifications": [
       "A"
-    ],
+    ]，
     "texture_hashes": [
       [
         [
-          "Diffuse",
+          "Diffuse"，
           ".dds",
           "81406abe"
-        ],
+        ]，
         [
           "NormalMap",
           ".dds",
           "ebac056e"
-        ],
+        ]，
         [
           "LightMap",
           ".dds",
@@ -118,7 +118,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "08b27f4a"
         ],
@@ -156,7 +156,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "f5dc4198"
         ],
@@ -194,7 +194,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "f5dc4198"
         ],
@@ -232,7 +232,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "05b25d35"
         ],
@@ -270,7 +270,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "8839d1fc"
         ],
@@ -308,7 +308,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "78c2d1dd"
         ],
@@ -346,7 +346,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "05b25d35"
         ],
@@ -384,7 +384,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "8839d1fc"
         ],
@@ -422,7 +422,7 @@
           "ebac056e"
         ],
         [
-          "MaterialMap",
+          "LightMap",
           ".dds",
           "f5dc4198"
         ],
