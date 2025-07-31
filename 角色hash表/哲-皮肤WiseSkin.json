@@ -25,13 +25,13 @@
           "ebac056e"
         ],
         [
-          "LightMap"，
-          ".dds"，
+          "LightMap",
+          ".dds",
           "8d8269f8"
-        ]，
+        ],
         [
-          "MaterialMap"，
-          ".dds"，
+          "MaterialMap",
+          ".dds",
           "f1b20f3d"
         ]
       ]
@@ -46,10 +46,10 @@
     "ib": "8d08b190",
     "object_indexes": [
       0
-    ]，
+    ],
     "object_classifications": [
       "A"
-    ]，
+    ],
     "texture_hashes": [
       []
     ]
@@ -63,22 +63,22 @@
     "ib": "6acc1eb8",
     "object_indexes": [
       0
-    ]，
+    ],
     "object_classifications": [
       "A"
-    ]，
+    ],
     "texture_hashes": [
       [
         [
-          "Diffuse"，
+          "Diffuse",
           ".dds",
           "81406abe"
-        ]，
+        ],
         [
           "NormalMap",
           ".dds",
           "ebac056e"
-        ]，
+        ],
         [
           "LightMap",
           ".dds",
