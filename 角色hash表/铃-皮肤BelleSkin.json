@@ -25,13 +25,13 @@
           "ebac056e"
         ],
         [
-          "LightMap"，
-          ".dds"，
+          "LightMap",
+          ".dds",
           "7d562f53"
-        ]，
+        ],
         [
-          "MaterialMap"，
-          ".dds"，
+          "MaterialMap",
+          ".dds",
           "34bdb036"
         ]
       ]
@@ -63,17 +63,17 @@
     "ib": "20d3a340",
     "object_indexes": [
       0
-    ]，
+    ],
     "object_classifications": [
       "A"
-    ]，
+    ],
     "texture_hashes": [
       [
         [
           "Diffuse",
           ".dds",
           "1ce58567"
-        ]，
+        ],
         [
           "NormalMap",
           ".dds",
