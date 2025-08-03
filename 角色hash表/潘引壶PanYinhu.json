@@ -231,7 +231,8 @@
     "blend_vb": "d141908c",
     "ib": "ff7e9b40",
     "object_indexes": [
-      0
+      0,
+      5166
     ],
     "object_classifications": [
       "A"
@@ -258,9 +259,32 @@
           ".dds",
           "de553410"
         ]
+      ],
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "c0928025"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "ebac056e"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "7d3c4c3d"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "42fc25f0"
+        ]
       ]
     ]
   }
 
 ]
+
 
