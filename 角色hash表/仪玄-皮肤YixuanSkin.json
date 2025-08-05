@@ -94,16 +94,16 @@
       "A",
       "B",
       "C"
-    ],
+    ]，
     "texture_hashes": [
       [
         [
-          "Diffuse",
-          ".dds",
+          "Diffuse"，
+          ".dds"，
           "fe2cc6f3"
         ],
         [
-          "NormalMap",
+          "NormalMap"，
           ".dds",
           "ebac056e"
         ],
@@ -137,7 +137,7 @@
         [
           "MaterialMap",
           ".dds",
-          "16a1fb10"
+          "7e6747ac"
         ]
       ],
       [
@@ -159,7 +159,7 @@
         [
           "MaterialMap",
           ".dds",
-          "16a1fb10"
+          "7e6747ac"
         ]
       ]
     ]
@@ -174,16 +174,16 @@
     "object_indexes": [
       0,
       2820
-    ],
+    ]，
     "object_classifications": [
       "A",
       "B"
-    ],
+    ]，
     "texture_hashes": [
       [
         [
           "Diffuse",
-          ".dds",
+          ".dds"，
           "fe2cc6f3"
         ],
         [
@@ -221,7 +221,7 @@
         [
           "MaterialMap",
           ".dds",
-          "16a1fb10"
+          "7e6747ac"
         ]
       ]
     ]
@@ -367,3 +367,4 @@
   }
 
 ]
+
