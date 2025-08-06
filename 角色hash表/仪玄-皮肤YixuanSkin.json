@@ -174,16 +174,16 @@
     "object_indexes": [
       0,
       2820
-    ]，
+    ],
     "object_classifications": [
       "A",
       "B"
-    ]，
+    ],
     "texture_hashes": [
       [
         [
           "Diffuse",
-          ".dds"，
+          ".dds",
           "fe2cc6f3"
         ],
         [
@@ -334,5 +334,6 @@
     ]
   }
 ]
+
 
 
