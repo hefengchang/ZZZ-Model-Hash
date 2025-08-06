@@ -332,39 +332,7 @@
         ]
       ]
     ]
-  },
-  {
-    "component_name": "weapon-武器-鸟（战斗状态）",
-    "VertexLimit": "5a016c9b",
-    "Position": "1a201296",
-    "Texcoord": "1a0934e4",
-    "Blend": "2ad5c986",
-    "ib": "fd2cbc71",
-    "texture_hashes": [
-      [
-        [
-          "Diffuse",
-          ".dds",
-          "7f504f10"
-        ],
-        [
-          "NormalMap",
-          ".dds",
-          "ebac056e"
-        ],
-        [
-          "LightMap",
-          ".dds",
-          "96254967"
-        ],
-        [
-          "MaterialMap",
-          ".dds",
-          "4300c703"
-        ]
-      ]
-    ]
   }
-
 ]
+
 
