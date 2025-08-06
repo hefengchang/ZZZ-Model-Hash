@@ -94,16 +94,16 @@
       "A",
       "B",
       "C"
-    ]，
+    ],
     "texture_hashes": [
       [
         [
-          "Diffuse"，
-          ".dds"，
+          "Diffuse",
+          ".dds",
           "fe2cc6f3"
         ],
         [
-          "NormalMap"，
+          "NormalMap",
           ".dds",
           "ebac056e"
         ],
@@ -334,6 +334,7 @@
     ]
   }
 ]
+
 
 
 
