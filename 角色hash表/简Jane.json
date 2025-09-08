@@ -156,9 +156,9 @@
   {
     "component_name": "weapon武器-手刀",
     "VertexLimit": "be378e74",
-    "Position": "850d4cbf",
-    "Texcoord": "7fd655de",
-    "Blend": "a14461d9",
+    "Position": "eace2dfa",
+    "Texcoord": "535e2453",
+    "Blend": "7310ad6a",
     "ib": "602c545a",
     "texture_hashes": [
       [

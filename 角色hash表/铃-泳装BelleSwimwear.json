@@ -55,7 +55,7 @@
     ]
   },
   {
-    "component_name": "hat-帽子",
+    "component_name": "Hat-帽子",
     "draw_vb": "bd2cf1bc",
     "position_vb": "c6b1cd55",
     "texcoord_vb": "a8b3bbab",
@@ -97,7 +97,7 @@
     "draw_vb": "2ceb44ef",
     "position_vb": "537d9b9b",
     "texcoord_vb": "f5e62ded",
-    "blend_vb": "6af00597",
+    "blend_vb": "4f3ddd5c",
     "ib": "43ed3c22",
     "object_indexes": [
       0,
@@ -207,7 +207,7 @@
     "draw_vb": "a1de68c0",
     "position_vb": "324d9d21",
     "texcoord_vb": "881514bf",
-    "blend_vb": "65481194",
+    "blend_vb": "0139f7e8",
     "ib": "69148073",
     "object_indexes": [
       0
