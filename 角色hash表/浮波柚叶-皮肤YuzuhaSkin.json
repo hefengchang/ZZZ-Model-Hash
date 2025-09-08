@@ -241,44 +241,6 @@
     ]
   },
   {
-    "component_name": "LeopardCat2-狸猫战斗中形态",
-    "draw_vb": "3a2c07d4",
-    "position_vb": "4206500f",
-    "texcoord_vb": "505c10ee",
-    "blend_vb": "173910df",
-    "ib": "51cedd4a",
-    "object_indexes": [
-      0
-    ],
-    "object_classifications": [
-      "A"
-    ],
-    "texture_hashes": [
-      [
-        [
-          "Diffuse",
-          ".dds",
-          "4f4c2b65"
-        ],
-        [
-          "NormalMap",
-          ".dds",
-          "ebac056e"
-        ],
-        [
-          "LightMap",
-          ".dds",
-          "c3e64779"
-        ],
-        [
-          "MaterialMap",
-          ".dds",
-          "ac2f3dcb"
-        ]
-      ]
-    ]
-  },
-  {
     "component_name": "Face-脸",
     "VertexLimit": "3578d11c",
     "Position": "0f6a425b",
@@ -348,4 +310,5 @@
     ]
   }
 ]
+
 
