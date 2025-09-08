@@ -246,37 +246,5 @@
         ]
       ]
     ]
-  },
-  {
-    "component_name": "weapon武器-唱片-技能唱歌状态",
-    "VertexLimit": "6c67049b",
-    "Position": "ced4a85d",
-    "Texcoord": "401e9639",
-    "Blend": "8a2319f4",
-    "ib": "9bb42122",
-    "texture_hashes": [
-      [
-        [
-          "Diffuse",
-          ".dds",
-          "7503323d"
-        ],
-        [
-          "NormalMap",
-          ".dds",
-          "ebac056e"
-        ],
-        [
-          "LightMap",
-          ".dds",
-          "7e5fe2c6"
-        ],
-        [
-          "MaterialMap",
-          ".dds",
-          "87687182"
-        ]
-      ]
-    ]
   }
 ]
