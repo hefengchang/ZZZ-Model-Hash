@@ -119,8 +119,6 @@
   {
     "component_name": "Waist supply-腰部补给",
     "draw_vb": "ec497419",
-    "position_vb": "a9d915fc",
-    "texcoord_vb": "ac887af1",
     "blend_vb": "5391a870",
     "ib": "425a7565",
     "object_indexes": [
@@ -226,10 +224,6 @@
   },
   {
     "component_name": "weapon武器-左手",
-    "VertexLimit": "252c54ca",
-    "Position": "b410f6f4",
-    "Texcoord": "5e8cc065",
-    "Blend": "65a00b72",
     "ib": "5b644956",
     "texture_hashes": [
       [
@@ -247,10 +241,10 @@
           "LightMap",
           ".dds",
           "03d28ecd"
-        ],
+        ]，
         [
-          "MaterialMap",
-          ".dds",
+          "MaterialMap"，
+          ".dds"，
           "6b141146"
         ]
       ]
@@ -258,10 +252,6 @@
   },
   {
     "component_name": "weapon武器-右手",
-    "VertexLimit": "252c54ca",
-    "Position": "b410f6f4",
-    "Texcoord": "5e8cc065",
-    "Blend": "65a00b72",
     "ib": "bfc94dff",
     "texture_hashes": [
       [
@@ -288,4 +278,5 @@
       ]
     ]
   }
+
 ]
