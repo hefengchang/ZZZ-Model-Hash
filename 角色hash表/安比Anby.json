@@ -114,7 +114,6 @@
   {
     "component_name": "Face-脸",
     "VertexLimit": "9f6aa443",
-    "Position": "262947a7",
     "Texcoord": "f818271a",
     "Blend": "9680d55d",
     "ib": "19df8e84",
@@ -206,3 +205,4 @@
     ]
   }
 ]
+
