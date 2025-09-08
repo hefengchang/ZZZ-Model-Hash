@@ -39,10 +39,6 @@
   },
   {
     "component_name": "Hair Shadow-头发阴影",
-    "draw_vb": "f6ed0e7b",
-    "position_vb": "feee0c46",
-    "texcoord_vb": "7549a6e5",
-    "blend_vb": "fd1ed101",
     "ib": "69c27d44",
     "object_indexes": [
       0
@@ -211,4 +207,5 @@
       ]
     ]
   }
+
 ]
