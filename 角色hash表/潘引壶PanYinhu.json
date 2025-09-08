@@ -150,7 +150,6 @@
   {
     "component_name": "Face-脸",
     "draw_vb": "682e8e8d",
-    "position_vb": "523c1dca",
     "texcoord_vb": "1eee2121",
     "blend_vb": "4aae3329",
     "ib": "ebb6a59b",
@@ -286,5 +285,6 @@
   }
 
 ]
+
 
 
