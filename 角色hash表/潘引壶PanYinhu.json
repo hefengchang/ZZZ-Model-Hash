@@ -234,7 +234,8 @@
       5166
     ],
     "object_classifications": [
-      "A"
+      "A",
+      "B"
     ],
     "texture_hashes": [
       [
@@ -283,8 +284,4 @@
       ]
     ]
   }
-
 ]
-
-
-
