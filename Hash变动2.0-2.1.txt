@@ -71,7 +71,8 @@
 铃皮肤BelleSkin, IB: 403eace9
   texcoord_vb: 7bf983ed -> 31746eaa
 
-铃皮肤BelleSkin,Diffuse: cac9fd5d -> da2bfe2f
+铃皮肤BelleSkin,  IB: 860e1558
+  Diffuse: cac9fd5d -> da2bfe2f
 
 格莉丝Grace.json, IB: 8b240678
   Diffuse: 210b3ebf -> 9c7057e8
@@ -80,4 +81,9 @@
   draw_vb: cf3319f6 -> 07437c27
   position_vb: a3b56c9b -> 2a7b9144
   texcoord_vb: 3d3199c5 -> 0c9062c5
-  blend_vb: be70426a -> 523cf99d 
+  blend_vb: be70426a -> 523cf99d
+
+仪玄-皮肤YixuanSkin, IB: 95de0d39 / 064cd7d3
+  Diffuse: 487db3e0 -> 7683c132
+  MaterialMap: 16a1fb10 -> 7e6747ac
+
