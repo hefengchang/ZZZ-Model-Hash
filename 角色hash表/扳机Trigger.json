@@ -49,7 +49,7 @@
     "texture_hashes": [
       []
     ]
-  }，
+  },
   {
     "component_name": "Body-身体",
     "draw_vb": "5fdaccd2",
@@ -134,15 +134,15 @@
           "LightMap",
           ".dds",
           "2236b80e"
-        ]，
+        ],
         [
-          "MaterialMap"，
-          ".dds"，
+          "MaterialMap",
+          ".dds",
           "a6d2b50e"
         ]
       ]
     ]
-  }，
+  },
   {
     "component_name": "weapon武器-枪托",
     "VertexLimit": "0cdfa94a",
@@ -209,5 +209,6 @@
   }
 
 ]
+
 
 
