@@ -312,8 +312,8 @@
   {
     "component_name": "weapon-驾驶舱",
     "draw_vb": "5bca6676",
-    "position_vb": "b095c5cf",
-    "texcoord_vb": "56979e94",
+    "position_vb": "567f9bcd",
+    "texcoord_vb": "030e0aca",
     "blend_vb": "10c13253",
     "ib": "75e1ae0a",
     "object_indexes": [
@@ -332,7 +332,7 @@
         [
           "NormalMap",
           ".dds",
-          "fc59be11"
+          "b35534a9"
         ],
         [
           "LightMap",
@@ -499,4 +499,5 @@
       ]
     ]
   }
+
 ]
