@@ -49,7 +49,7 @@
     "texture_hashes": [
       []
     ]
-  },
+  }，
   {
     "component_name": "Body-身体",
     "draw_vb": "5fdaccd2",
@@ -92,7 +92,7 @@
     "component_name": "Face-脸",
     "VertexLimit": "8057c562",
     "Position": "dfc69ad0",
-    "Texcoord": "b9f0d595",
+    "Texcoord": "d4a12ab7",
     "Blend": "1a9a858c",
     "ib": "40cd4182",
     "MatchFirstIndex": [
@@ -209,3 +209,4 @@
   }
 
 ]
+
