@@ -134,15 +134,15 @@
           "LightMap",
           ".dds",
           "2236b80e"
-        ],
+        ]，
         [
-          "MaterialMap",
-          ".dds",
+          "MaterialMap"，
+          ".dds"，
           "a6d2b50e"
         ]
       ]
     ]
-  },
+  }，
   {
     "component_name": "weapon武器-枪托",
     "VertexLimit": "0cdfa94a",
@@ -178,8 +178,8 @@
   {
     "component_name": "weapon武器-弹匣",
     "VertexLimit": "773c85f4",
-    "Position": "862efc96",
-    "Texcoord": "a58b916d",
+    "Position": "988144a6",
+    "Texcoord": "b6d507d9",
     "Blend": "89c48e15",
     "ib": "f61f6acd",
     "texture_hashes": [
@@ -209,4 +209,5 @@
   }
 
 ]
+
 
