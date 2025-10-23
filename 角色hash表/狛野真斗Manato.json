@@ -7,10 +7,12 @@
     "blend_vb": "b882d0c8",
     "ib": "de57398c",
     "object_indexes": [
-      0
+      0,
+      6363
     ],
     "object_classifications": [
-      "A"
+      "A",
+      "B"
     ],
     "texture_hashes": [
       [
@@ -199,11 +201,13 @@
     "ib": "f987f156",
     "MatchFirstIndex": [
       "0",
-      "8346"
+      "1674",
+      "8850"
     ],
     "PartNameList": [
       "1",
-      "2"
+      "2",
+      "3"
     ],
     "texture_hashes": [
       [
