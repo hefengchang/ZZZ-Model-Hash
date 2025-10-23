@@ -8,7 +8,7 @@
     "ib": "6988bfcd",
     "object_indexes": [
       0,
-      10632
+      34074
     ],
     "object_classifications": [
       "A",
@@ -163,8 +163,8 @@
     "ib": "ed85f33b",
     "object_indexes": [
       0,
-      1218,
-      9348
+      7248,
+      9582
     ],
     "object_classifications": [
       "A",
@@ -317,12 +317,36 @@
     "blend_vb": "6fba1f7b",
     "ib": "389256d8",
     "object_indexes": [
-      0
+      0,
+      4665
     ],
     "object_classifications": [
-      "A"
+      "A",
+      "B"
     ],
     "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "dd80fa1d"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "ebac056e"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "92c6b20b"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "cb65982e"
+        ]
+      ],
       [
         [
           "Diffuse",
