@@ -7,10 +7,12 @@
     "blend_vb": "bfd60db5",
     "ib": "340fc999",
     "object_indexes": [
-      0
+      0,
+      18351
     ],
     "object_classifications": [
-      "A"
+      "A",
+      "B"
     ],
     "texture_hashes": [
       [
@@ -77,7 +79,7 @@
     ]
   },
   {
-    "component_name": "hat-帽子",
+    "component_name": "Cape-披风",
     "draw_vb": "6533c56a",
     "position_vb": "5f21562d",
     "texcoord_vb": "dd0e570f",
@@ -115,7 +117,7 @@
     ]
   },
   {
-    "component_name": "headwear-头饰",
+    "component_name": "CapeAccessory-披风配饰",
     "draw_vb": "439208cc",
     "position_vb": "c035f6bd",
     "texcoord_vb": "90f30bc1",
@@ -160,10 +162,12 @@
     "blend_vb": "3f4f9fa9",
     "ib": "d39c304d",
     "object_indexes": [
-      0
+      0,
+      61632
     ],
     "object_classifications": [
-      "A"
+      "A",
+      "B"
     ],
     "texture_hashes": [
       [
@@ -244,11 +248,13 @@
     "ib": "6986f28e",
     "MatchFirstIndex": [
       "0",
-      "8406"
+      "7416",
+      "9408"
     ],
     "PartNameList": [
       "1",
-      "2"
+      "2",
+      "3"
     ],
     "texture_hashes": [
       [
