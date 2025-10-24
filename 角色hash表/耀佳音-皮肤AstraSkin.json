@@ -86,10 +86,12 @@
     "blend_vb": "b72fadfc",
     "ib": "02d8a2cb",
     "object_indexes": [
-      0
+      0,
+      66327
     ],
     "object_classifications": [
-      "A"
+      "A",
+      "B"
     ],
     "texture_hashes": [
       [
