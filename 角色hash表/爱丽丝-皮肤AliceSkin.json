@@ -226,12 +226,10 @@
     "blend_vb": "4fbccfe1",
     "ib": "2c37d8c9",
     "object_indexes": [
-      0,
-      22074
+      0
     ],
     "object_classifications": [
-      "A",
-      "B"
+      "A"
     ],
     "texture_hashes": [
       [
