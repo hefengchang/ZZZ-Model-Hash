@@ -241,10 +241,10 @@
           "LightMap",
           ".dds",
           "03d28ecd"
-        ]，
+        ],
         [
-          "MaterialMap"，
-          ".dds"，
+          "MaterialMap",
+          ".dds",
           "6b141146"
         ]
       ]
@@ -280,3 +280,4 @@
   }
 
 ]
+
