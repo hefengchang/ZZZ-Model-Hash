@@ -40,7 +40,6 @@
   {
     "component_name": "Face-脸",
     "VertexLimit": "7e77201a",
-    "Texcoord": "893553e3",
     "Blend": "18d26bd2",
     "ib": "9c4f1a9a",
     "texture_hashes": [
@@ -102,3 +101,4 @@
   }
 
 ]
+
