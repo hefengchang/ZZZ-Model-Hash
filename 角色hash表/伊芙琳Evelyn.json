@@ -284,8 +284,6 @@
   {
     "component_name": "weapon武器-匕首展开状态",
     "VertexLimit": "3ae20915",
-    "Position": "33d2866e",
-    "Texcoord": "040993a0",
     "Blend": "99c7c611",
     "ib": "78699e6c",
     "texture_hashes": [
@@ -379,3 +377,4 @@
   }
 
 ]
+
