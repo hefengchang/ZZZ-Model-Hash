@@ -346,9 +346,6 @@
   {
     "component_name": "silk string-丝弦",
     "VertexLimit": "4ff726df",
-    "Position": "06c6a436",
-    "Texcoord": "2c5dcebd",
-    "Blend": "99555cf2",
     "ib": "af10bd11",
     "texture_hashes": [
       [
@@ -375,6 +372,4 @@
       ]
     ]
   }
-
 ]
-
