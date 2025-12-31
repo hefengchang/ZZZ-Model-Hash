@@ -63,10 +63,6 @@
   },
   {
     "component_name": "Hair Shadow-头发阴影",
-    "draw_vb": "3c007110",
-    "position_vb": "42501c05",
-    "texcoord_vb": "a935146f",
-    "blend_vb": "923b7623",
     "ib": "59390f5a",
     "object_indexes": [
       0
@@ -83,7 +79,7 @@
     "draw_vb": "2e77bd1d",
     "position_vb": "ff36809b",
     "texcoord_vb": "3f2079bc",
-    "blend_vb": "6ff0e4ad",
+    "blend_vb": "3d7e53cf",
     "ib": "af39a873",
     "object_indexes": [
       0
@@ -221,9 +217,9 @@
   {
     "component_name": "WeaponGrip-武器握把",
     "draw_vb": "25f309c9",
-    "position_vb": "79fc6a95",
-    "texcoord_vb": "c0f5d550",
-    "blend_vb": "35709db4",
+    "position_vb": "fd32eb72",
+    "texcoord_vb": "5455d3c6",
+    "blend_vb": "8fe19cc1",
     "ib": "1d8f8de6",
     "object_indexes": [
       0
