@@ -1,14 +1,14 @@
 [
   {
     "component_name": "Hair-头发",
-    "draw_vb": "2d06e785",
-    "position_vb": "e7a3b7dc",
-    "texcoord_vb": "acec29f8",
-    "blend_vb": "8721477f",
-    "ib": "9268a5af",
+    "draw_vb": "74bc0b7f",
+    "position_vb": "33a09cfe",
+    "texcoord_vb": "fa617c9a",
+    "blend_vb": "e42171df",
+    "ib": "3275b812",
     "object_indexes": [
       0,
-      33780
+      16986
     ],
     "object_classifications": [
       "A",
@@ -63,11 +63,7 @@
   },
   {
     "component_name": "HeHair Shadowad-阴影头发",
-    "draw_vb": "759a4b9f",
-    "position_vb": "5f8ea758",
-    "texcoord_vb": "3ac849d5",
-    "blend_vb": "c5a06055",
-    "ib": "7c6eb690",
+    "ib": "27805144",
     "object_indexes": [
       0
     ],
@@ -117,10 +113,48 @@
     ]
   },
   {
+    "component_name": "Hands&Accessories-手和配饰",
+    "draw_vb": "2b5dc947",
+    "position_vb": "82e7c056",
+    "texcoord_vb": "6d482e21",
+    "blend_vb": "d06a9206",
+    "ib": "294a319a",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "f7ef1a53"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "ebac056e"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "9ec4cd4f"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "5e34e275"
+        ]
+      ]
+    ]
+  },
+  {
     "component_name": "Face-脸",
     "VertexLimit": "5661afc3",
     "Position": "6c733c84",
-    "Texcoord": "9f2f7c53",
+    "Texcoord": "1fa404c1",
     "Blend": "91846a84",
     "ib": "ef86fc9f",
     "MatchFirstIndex": [
@@ -156,9 +190,6 @@
   {
     "component_name": "weapon武器-手刀",
     "VertexLimit": "be378e74",
-    "Position": "eace2dfa",
-    "Texcoord": "535e2453",
-    "Blend": "7310ad6a",
     "ib": "602c545a",
     "texture_hashes": [
       [
