@@ -221,9 +221,6 @@
   {
     "component_name": "sword-剑",
     "draw_vb": "4d92da0d",
-    "position_vb": "5324c543",
-    "texcoord_vb": "3136fbad",
-    "blend_vb": "e52f08c3",
     "ib": "2c37d8c9",
     "object_indexes": [
       0
