@@ -90,11 +90,11 @@
   },
   {
     "component_name": "Torso-上半身",
-    "draw_vb": "02c9dc4b",
-    "position_vb": "0b3c5e7c",
-    "texcoord_vb": "862dc27a",
-    "blend_vb": "01b0c8b6",
-    "ib": "860e1558",
+    "draw_vb": "19e5f486",
+    "position_vb": "8a4e97cd",
+    "texcoord_vb": "d761e076",
+    "blend_vb": "f3dedb50",
+    "ib": "d509bdd4",
     "object_indexes": [
       0
     ],
