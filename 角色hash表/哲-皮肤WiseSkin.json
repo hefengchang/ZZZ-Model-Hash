@@ -55,6 +55,44 @@
     ]
   },
   {
+    "component_name": "Neck-脖子",
+    "draw_vb": "276e1373",
+    "position_vb": "d8ad824b",
+    "texcoord_vb": "39a1dfe3",
+    "blend_vb": "458bbde3",
+    "ib": "01c42a1d",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "81406abe"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "ebac056e"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "05b25d35"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "24af1f48"
+        ]
+      ]
+    ]
+  },
+  {
     "component_name": "Body-身体",
     "draw_vb": "ca02f614",
     "position_vb": "a388eb6b",
