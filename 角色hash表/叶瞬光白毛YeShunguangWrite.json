@@ -144,7 +144,7 @@
     "component_name": "Body-身体",
     "draw_vb": "f201bd10",
     "position_vb": "3239124c",
-    "texcoord_vb": "d1ffd339",
+    "texcoord_vb": "dbb027eb",
     "blend_vb": "79c7949c",
     "ib": "c209c22b",
     "object_indexes": [
@@ -282,12 +282,12 @@
         [
           "LightMap",
           ".dds",
-          "fc76ef5b"
+          "0d70f7cd"
         ],
         [
           "MaterialMap",
           ".dds",
-          "0afd6ddf"
+          "7bf83964"
         ]
       ]
     ]
@@ -434,12 +434,12 @@
         [
           "LightMap",
           ".dds",
-          "fc76ef5b"
+          "0d70f7cd"
         ],
         [
           "MaterialMap",
           ".dds",
-          "0afd6ddf"
+          "7bf83964"
         ]
       ]
     ]
@@ -447,7 +447,6 @@
   {
     "component_name": "Eyebrow-眉毛",
     "draw_vb": "9f0ab8cd",
-    "position_vb": "a5182b8a",
     "texcoord_vb": "287c161c",
     "blend_vb": "f5daa764",
     "ib": "611df76d",
