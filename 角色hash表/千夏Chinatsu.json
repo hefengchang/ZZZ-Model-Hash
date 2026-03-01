@@ -232,12 +232,50 @@
     ]
   },
   {
-    "component_name": "paopao-泡泡",
+    "component_name": "paopao-泡泡(战斗状态)",
     "draw_vb": "ffe207d5",
     "position_vb": "3a7143a6",
     "texcoord_vb": "62519e38",
     "blend_vb": "38e2fe9f",
     "ib": "e7a17172",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "7d8ac131"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "ebac056e"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "5c5b6aad"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "3c4378db"
+        ]
+      ]
+    ]
+  },
+  {
+    "component_name": "paopao-泡泡(非战斗状态)",
+    "draw_vb": "ffe207d5",
+    "position_vb": "1a0cad46",
+    "texcoord_vb": "df0f6142",
+    "blend_vb": "d4e13802",
+    "ib": "07a82c9c",
     "object_indexes": [
       0
     ],
