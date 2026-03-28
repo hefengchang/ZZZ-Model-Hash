@@ -1,11 +1,11 @@
 [
   {
     "component_name": "Hair-头发",
-    "draw_vb": "22c82346",
-    "position_vb": "327644ee",
-    "texcoord_vb": "5e70dde6",
-    "blend_vb": "79de92c7",
-    "ib": "6cc4d486",
+    "draw_vb": "74cc56df",
+    "position_vb": "4b93d8eb",
+    "texcoord_vb": "b9030f86",
+    "blend_vb": "4a795f2a",
+    "ib": "a6d82ba5",
     "object_indexes": [
       0,
       45987
@@ -77,8 +77,8 @@
   {
     "component_name": "Body-身体",
     "draw_vb": "7353a665",
-    "position_vb": "c77b3235",
-    "texcoord_vb": "0c6b95ca",
+    "position_vb": "25cf6bf7",
+    "texcoord_vb": "7a31eb8b",
     "blend_vb": "9b65412a",
     "ib": "ee17c9a2",
     "object_indexes": [
