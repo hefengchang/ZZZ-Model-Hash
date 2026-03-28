@@ -1,5 +1,4 @@
 哲Wise.json, IB: 8d6acf4e
-  Diffuse: 3d7a53b0 -> dea7a8ca
   Diffuse: 868709f2 -> f2fb7a37
 
 千夏皮肤ChinatsuSkin, IB: 6cc4d486 -> a6d82ba5
