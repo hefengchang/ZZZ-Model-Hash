@@ -349,10 +349,6 @@
   },
   {
     "component_name": "SpearHead-长枪头",
-    "draw_vb": "7be6ea6a",
-    "position_vb": "1e16d276",
-    "texcoord_vb": "878339ba",
-    "blend_vb": "8c7034ee",
     "ib": "29123d5a",
     "object_indexes": [
       0
