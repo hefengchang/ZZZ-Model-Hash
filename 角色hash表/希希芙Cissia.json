@@ -163,7 +163,7 @@
         [
           "Diffuse",
           ".dds",
-          "f8739729"
+          "ec85e98d"
         ],
         [
           "NormalMap",
@@ -203,7 +203,7 @@
         [
           "Diffuse",
           ".dds",
-          "f8739729"
+          "ec85e98d"
         ],
         [
           "NormalMap",
@@ -225,7 +225,7 @@
         [
           "Diffuse",
           ".dds",
-          "f8739729"
+          "ec85e98d"
         ],
         [
           "NormalMap",
@@ -247,10 +247,6 @@
   },
   {
     "component_name": "Eyebrow-眉毛",
-    "draw_vb": "6e02f849",
-    "position_vb": "8b927127",
-    "texcoord_vb": "cd87eb81",
-    "blend_vb": "09fa4349",
     "ib": "7c01dc6b",
     "object_indexes": [
       0
@@ -327,7 +323,7 @@
         [
           "Diffuse",
           ".dds",
-          "f8739729"
+          "ec85e98d"
         ],
         [
           "NormalMap",
@@ -361,7 +357,7 @@
         [
           "Diffuse",
           ".dds",
-          "f8739729"
+          "ec85e98d"
         ],
         [
           "NormalMap",
@@ -399,7 +395,7 @@
         [
           "Diffuse",
           ".dds",
-          "f8739729"
+          "ec85e98d"
         ],
         [
           "NormalMap",
@@ -437,7 +433,7 @@
         [
           "Diffuse",
           ".dds",
-          "f8739729"
+          "ec85e98d"
         ],
         [
           "NormalMap",
