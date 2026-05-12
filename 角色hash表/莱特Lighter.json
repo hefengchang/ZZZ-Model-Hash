@@ -17,7 +17,7 @@
         [
           "Diffuse",
           ".dds",
-          "c5d60a1d"
+          "4e088042"
         ],
         [
           "NormalMap",
@@ -32,7 +32,7 @@
         [
           "MaterialMap",
           ".dds",
-          "d5ba9ea6"
+          "d331b850"
         ]
       ]
     ]
@@ -110,7 +110,7 @@
         [
           "Diffuse",
           ".dds",
-          "c5d60a1d"
+          "4e088042"
         ],
         [
           "NormalMap",
@@ -125,7 +125,7 @@
         [
           "MaterialMap",
           ".dds",
-          "d5ba9ea6"
+          "d331b850"
         ]
       ]
     ]
@@ -195,7 +195,6 @@
   {
     "component_name": "Face-脸",
     "VertexLimit": "aa77af05",
-    "Position": "90653c42",
     "Texcoord": "af14829b",
     "Blend": "7edbb44e",
     "ib": "dcc7bb78",
