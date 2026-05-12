@@ -92,7 +92,7 @@
         [
           "Diffuse",
           ".dds",
-          "2d290490"
+          "11254966"
         ],
         [
           "NormalMap",
@@ -130,7 +130,7 @@
         [
           "Diffuse",
           ".dds",
-          "2d290490"
+          "11254966"
         ],
         [
           "NormalMap",
@@ -170,7 +170,7 @@
         [
           "Diffuse",
           ".dds",
-          "2d290490"
+          "11254966"
         ],
         [
           "NormalMap",
@@ -192,7 +192,7 @@
         [
           "Diffuse",
           ".dds",
-          "2d290490"
+          "11254966"
         ],
         [
           "NormalMap",
@@ -274,10 +274,6 @@
   },
   {
     "component_name": "Weapon-武器",
-    "draw_vb": "8252253e",
-    "position_vb": "fe68de06",
-    "texcoord_vb": "06639b26",
-    "blend_vb": "4115d67b",
     "ib": "dcd7242e",
     "object_indexes": [
       0
