@@ -148,10 +148,10 @@
   },
   {
     "component_name": "Collar-衣领",
-    "draw_vb": "617a4f7c",
-    "position_vb": "45992c18",
-    "texcoord_vb": "97c35484",
-    "blend_vb": "a829800f",
+    "draw_vb": "b729d418",
+    "position_vb": "b5ba7f2c",
+    "texcoord_vb": "6cbb0e03",
+    "blend_vb": "0c780fde",
     "ib": "fed4432c",
     "object_indexes": [
       0
