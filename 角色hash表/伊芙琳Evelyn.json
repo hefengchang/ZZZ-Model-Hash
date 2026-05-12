@@ -312,10 +312,6 @@
   },
   {
     "component_name": "weapon武器-匕首收起状态",
-    "VertexLimit": "3ae20915",
-    "Position": "33d2866e",
-    "Texcoord": "040993a0",
-    "Blend": "99c7c611",
     "ib": "7fb7467f",
     "texture_hashes": [
       [
