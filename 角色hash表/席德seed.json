@@ -117,7 +117,7 @@
     ]
   },
   {
-    "component_name": "ExteriorDecoration-外部装饰",
+    "component_name": "Accessories-配饰",
     "draw_vb": "c24ebf3b",
     "position_vb": "12d6c223",
     "texcoord_vb": "99be167f",
@@ -330,11 +330,6 @@
           "b2e81a28"
         ],
         [
-          "NormalMap",
-          ".dds",
-          "b35534a9"
-        ],
-        [
           "LightMap",
           ".dds",
           "6f269065"
@@ -499,5 +494,4 @@
       ]
     ]
   }
-
 ]
