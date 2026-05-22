@@ -217,9 +217,6 @@
   {
     "component_name": "WeaponGrip-武器握把",
     "draw_vb": "25f309c9",
-    "position_vb": "fd32eb72",
-    "texcoord_vb": "5455d3c6",
-    "blend_vb": "8fe19cc1",
     "ib": "1d8f8de6",
     "object_indexes": [
       0
