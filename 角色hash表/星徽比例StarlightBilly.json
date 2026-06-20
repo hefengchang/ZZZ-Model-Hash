@@ -30,7 +30,8 @@
           "b6e1da4b"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Body-身体",
@@ -68,7 +69,8 @@
           "d85dec5d"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Torso-躯干",
@@ -106,7 +108,8 @@
           "f8f7fdbe"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "LeftArm-左手臂",
@@ -144,7 +147,8 @@
           "95454832"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Collar-衣领",
@@ -182,7 +186,8 @@
           "f8f7fdbe"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "BackDecoration1-背部装饰1",
@@ -220,7 +225,8 @@
           "f8f7fdbe"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "BackDecoration2-背部装饰2",
@@ -258,7 +264,8 @@
           "f8f7fdbe"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Motorcycle-摩托",
@@ -296,7 +303,8 @@
           "6b61b30c"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Face-脸部",
@@ -334,7 +342,8 @@
           "bdc617ad"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Gun-手枪",
@@ -372,7 +381,8 @@
           "11af0644"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Weapon-主武器",
@@ -410,7 +420,8 @@
           "95454832"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "WeaponAccessory1-武器配件1",
@@ -448,7 +459,8 @@
           "95454832"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "WeaponAccessory2-武器配件2",
@@ -486,7 +498,8 @@
           "95454832"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "WeaponAccessory3-武器配件3",
@@ -524,7 +537,8 @@
           "95454832"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "WeaponAccessory4-武器配件4",
@@ -562,6 +576,16 @@
           "95454832"
         ]
       ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
+  },
+  {
+    "_note": "作者信息",
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make",
+    "_notice": "Please do not reprint without permission, otherwise no future updates will be uploaded. 请勿私自转载，否则后期不再上传。",
+    "_urls": [
+      "https://github.com/hefengchang",
+      "https://www.caimogu.cc/user/1761398.html"
     ]
   }
 ]

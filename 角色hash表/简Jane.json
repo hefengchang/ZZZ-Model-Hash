@@ -59,7 +59,8 @@
           "5e34e275"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "HeHair Shadowad-阴影头发",
@@ -72,7 +73,8 @@
     ],
     "texture_hashes": [
       []
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Body-身体",
@@ -110,7 +112,8 @@
           "99eae42e"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Hands&Accessories-手和配饰",
@@ -148,7 +151,8 @@
           "5e34e275"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "Face-脸",
@@ -185,7 +189,8 @@
           "3b75aa2c"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "weapon武器-手刀",
@@ -214,7 +219,8 @@
           "d83ad325"
         ]
       ]
-    ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
   },
   {
     "component_name": "weapon武器-脚刀",
@@ -246,6 +252,16 @@
           "5e34e275"
         ]
       ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
+  },
+  {
+    "_note": "作者信息",
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make",
+    "_notice": "Please do not reprint without permission, otherwise no future updates will be uploaded. 请勿私自转载，否则后期不再上传。",
+    "_urls": [
+      "https://github.com/hefengchang",
+      "https://www.caimogu.cc/user/1761398.html"
     ]
   }
 ]
