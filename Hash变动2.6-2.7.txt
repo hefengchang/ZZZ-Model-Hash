@@ -13,3 +13,10 @@
 
 爱芮-皮肤ArieSkin.json, IB: c6bb960b
   Diffuse: a55f187e -> 677f73d9
+
+--------------------
+作者: 踩蘑菇网绿小林子制作，Github-GreenLzz-Make
+声明: 请勿私自转载，否则后期不再上传。
+网址1: https://github.com/hefengchang
+网址2: https://www.caimogu.cc/user/1761398.html
+--------------------

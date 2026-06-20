@@ -31,6 +31,9 @@
 莱卡恩Lycaon.json, IB: 6749b6e7 / c28ea8d7
   Diffuse: 7169ec86 -> 4cb6928e
 
+叶瞬光YeShunguang, IB: c209c22b
+  texcoord_vb: d1ffd339 -> dbb027eb
+
 以下角色模型产生变化：
 简
 新增 手和配饰 IB:294a319a 
@@ -42,3 +45,10 @@
 哲-道服
 新增 脖子 IB:01c42a1d
 
+
+--------------------
+作者: 踩蘑菇网绿小林子制作，Github-GreenLzz-Make
+声明: 请勿私自转载，否则后期不再上传。
+网址1: https://github.com/hefengchang
+网址2: https://www.caimogu.cc/user/1761398.html
+--------------------
