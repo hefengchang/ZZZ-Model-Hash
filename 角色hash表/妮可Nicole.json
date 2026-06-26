@@ -1,11 +1,11 @@
 [
   {
     "component_name": "Hair-头发",
-    "draw_vb": "f6344432",
-    "position_vb": "199853eb",
-    "texcoord_vb": "06e4fd79",
-    "blend_vb": "347e4a48",
-    "ib": "6847bbbd",
+    "draw_vb": "d9b8d61a",
+    "position_vb": "6f931ca7",
+    "texcoord_vb": "e04f4893",
+    "blend_vb": "8171f5c9",
+    "ib": "7dcfe907",
     "object_indexes": [
       0
     ],
@@ -37,7 +37,7 @@
     "component_name": "Hair Shadow-头发阴影",
     "draw_vb": "4d61e6f3",
     "position_vb": "b408b261",
-    "texcoord_vb": "322345a6",
+    "texcoord_vb": "e6b9e50e",
     "blend_vb": "ab4b28ad",
     "ib": "4ed9a81f",
     "object_indexes": [
@@ -53,11 +53,11 @@
   },
   {
     "component_name": "Body-身体",
-    "draw_vb": "8cc1262b",
-    "position_vb": "89df5a07",
-    "texcoord_vb": "91c1b779",
-    "blend_vb": "7ecda89f",
-    "ib": "5a4c1ef3",
+    "draw_vb": "b19da99e",
+    "position_vb": "4af0a4cd",
+    "texcoord_vb": "ed4c47a9",
+    "blend_vb": "b793c804",
+    "ib": "e53364dd",
     "object_indexes": [
       0,
       46683
@@ -118,7 +118,7 @@
     "component_name": "Amillion-艾米莉安",
     "draw_vb": "bb7fffe9",
     "position_vb": "176bf3d7",
-    "texcoord_vb": "077c3500",
+    "texcoord_vb": "f9f810ed",
     "blend_vb": "4e1d9c9a",
     "ib": "40e64ae2",
     "object_indexes": [
@@ -155,10 +155,10 @@
   },
   {
     "component_name": "Face-脸",
-    "VertexLimit": "9274e401",
-    "Texcoord": "5714e5e6",
-    "Blend": "b25ebcf6",
-    "ib": "7435fc0e",
+    "VertexLimit": "967c2f1c",
+    "Texcoord": "d5958556",
+    "Blend": "292d1b1f",
+    "ib": "93b02078",
     "MatchFirstIndex": [
       "0",
       "9456"
