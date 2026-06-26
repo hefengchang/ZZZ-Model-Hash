@@ -101,6 +101,31 @@
   LightMap1024: 5e59380e -> a1988612
   MaterialMap1024: 09271c02 -> 7559d574
 
+v3.01热更新
+妮可Nicole, IB: 6847bbbd -> 7dcfe907 -> 头发
+  draw_vb: f6344432 -> d9b8d61a
+  position_vb: 199853eb -> 6f931ca7
+  texcoord_vb: 06e4fd79 -> e04f4893
+  blend_vb: 347e4a48 -> 8171f5c9
+
+妮可Nicole, IB: 4ed9a81f 头发阴影
+  texcoord_vb: 322345a6 -> e6b9e50e
+
+妮可Nicole, IB: 5a4c1ef3 -> e53364dd 身体
+  draw_vb: 8cc1262b -> b19da99e
+  position_vb: 89df5a07 -> 4af0a4cd
+  texcoord_vb: 91c1b779 -> ed4c47a9
+  blend_vb: 7ecda89f -> b793c804
+
+妮可Nicole, IB: 40e64ae2 艾米莉安
+  texcoord_vb: 077c3500 -> f9f810ed
+
+妮可Nicole, IB: 7435fc0e -> 93b02078 脸
+  VertexLimit: 9274e401 -> 967c2f1c
+  Texcoord: 5714e5e6 -> d5958556
+  Blend: b25ebcf6 -> 292d1b1f
+  Position: a8667746 -> ac6ebc5b
+
 
 --------------------
 作者: 踩蘑菇网绿小林子制作，Github-GreenLzz-Make
