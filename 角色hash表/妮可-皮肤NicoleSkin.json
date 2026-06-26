@@ -94,7 +94,7 @@
     "component_name": "Amillion-艾米莉安",
     "draw_vb": "bb7fffe9",
     "position_vb": "176bf3d7",
-    "texcoord_vb": "077c3500",
+    "texcoord_vb": "f9f810ed",
     "blend_vb": "4e1d9c9a",
     "ib": "40e64ae2",
     "object_indexes": [
@@ -131,11 +131,11 @@
   },
   {
     "component_name": "Face-脸",
-    "VertexLimit": "9274e401",
-    "Position": "a8667746",
-    "Texcoord": "5714e5e6",
-    "Blend": "b25ebcf6",
-    "ib": "7435fc0e",
+    "VertexLimit": "967c2f1c",
+    "Position": "ac6ebc5b",
+    "Texcoord": "d5958556",
+    "Blend": "292d1b1f",
+    "ib": "93b02078",
     "MatchFirstIndex": [
       "0",
       "9456"
