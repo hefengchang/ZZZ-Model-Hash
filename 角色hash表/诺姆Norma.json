@@ -205,7 +205,6 @@
   {
     "component_name": "Eyebrow-眉毛",
     "draw_vb": "b5bc1f91",
-    "position_vb": "15a1b43f",
     "texcoord_vb": "7acc7619",
     "blend_vb": "11747958",
     "ib": "d3b2ed9a",
@@ -263,6 +262,84 @@
           "Diffuse",
           ".dds",
           "007dc9ec"
+        ]
+      ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
+  },
+  {
+    "component_name": "Weapon-武器",
+    "draw_vb": "2ff62c6d",
+    "position_vb": "38e511a4",
+    "texcoord_vb": "89a25f1a",
+    "blend_vb": "d3a66db9",
+    "ib": "ca38d6a1",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "23ba50e2"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "4050da0a"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "00b13a4d"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "7ae5f4d6"
+        ]
+      ]
+    ],
+    "_author": "踩蘑菇网绿小林子制作，Github-GreenLzz-Make"
+  },
+  {
+    "component_name": "Shell-炮弹",
+    "draw_vb": "1b29ee19",
+    "position_vb": "e2a92567",
+    "texcoord_vb": "1d67e673",
+    "blend_vb": "10d0bc6f",
+    "ib": "85361021",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "23ba50e2"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "4050da0a"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "00b13a4d"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "7ae5f4d6"
         ]
       ]
     ],
