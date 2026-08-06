@@ -1,4 +1,74 @@
 =======================================================================
+  版本 3.0 → 3.1
+=======================================================================
+【哲泳装WiseSwimwear/哲皮肤WiseSkin/哲Wise/哲校服WiseSchoolUnifor】 
+IB: 1fdaf388（脸）
+  Texcoord: c83b6cbf -> 2b320847
+
+【简皮肤JaneSkin/简Jane】
+IB: ef86fc9f（脸）
+  Texcoord: 1fa404c1 -> 3c32a411
+
+【维琳娜皮肤VelinaSkin/维琳娜Velina】
+IB: 6cfb2498 -> 2414f4b9（脸）
+  draw_vb: 19ead1b7 -> bfa3b361
+  position_vb: 23f842f0 -> 85b12026
+  texcoord_vb: 641bedfb -> 69304ff6
+  blend_vb: 98ecf569 -> 76fe8eed
+  object_indexes: [0, 7182, 9888] -> [0, 7398, 9888]
+
+【莱特Lighter】
+IB: dcc7bb78（脸）
+  Texcoord: af14829b -> 04cc2dfd
+
+【诺姆Norma】
+IB: ca38d6a1（武器）
+  position_vb: 38e511a4 -> 07e51b64
+  texcoord_vb: 89a25f1a -> c4173b6e
+  blend_vb: d3a66db9 -> aa195b0b
+  NormalMap: 4050da0a -> ebac056e
+  NormalMap: 0139f54e -> 798adba3
+  MaterialMap: 7ae5f4d6 -> 79a583ad
+  MaterialMap: 1db67ade -> b70b6037
+IB: 85361021（炮弹）
+  position_vb: e2a92567 -> e3fafeeb
+  texcoord_vb: 1d67e673 -> 44991f30
+  NormalMap: 4050da0a -> ebac056e
+  NormalMap: 0139f54e -> 798adba3
+  MaterialMap: 7ae5f4d6 -> 79a583ad
+  MaterialMap: 1db67ade -> b70b6037
+IB: a2150d3b（头发）/bcc7e369（帽子）
+  NormalMap: fc98a89c -> ebac056e
+  NormalMap: dc5bc6d9 -> 798adba3
+IB: 773f390c（身体）
+  NormalMap: 37da98f5 -> ebac056e
+  NormalMap: 02cbd89d -> 798adba3
+
+【赛斯Seth】
+IB: 52f5aa74（脸）
+  Texcoord: bff3e0b3 -> b3f6842f
+
+【铃Belle/铃校服BelleSchoolUniform/铃皮肤BelleSkin/铃泳装BelleSwimwear】
+IB: 9a9780a7（脸）
+  texcoord_vb: d3000b22 -> 228f5a8b
+
+【铃校服BelleSchoolUniform】
+IB: feb1c4cd（身体）
+  Diffuse: a292d07d -> fd906f9b
+  Diffuse: 639ad374 -> d9dc65da
+
+【露西Lucy】
+IB: df3e3965（脸）
+  Texcoord: 1ca0ae1a -> e78a4ee2
+
+【青衣Qingyi】
+IB: f6e96452（脸）
+  Texcoord: 6a492df0 -> db1f2dfa 
+  ※ 青衣与零号安比脸部的旧hash冲突，请勿使用修复工具修复，请在ini配置中手动替换为新的hash
+
+
+
+=======================================================================
   版本 2.8 → 3.0
 =======================================================================
 
@@ -382,10 +452,10 @@
 
 【月城柳Yanagi】
   IB: 44d9123b
-    draw_vb: (新增) -> 178a1ff8
-    position_vb: (新增) -> 8e3cf210
-    texcoord_vb: (新增) -> dd32963a
-    blend_vb: (新增) -> 6b5d6e39
+    draw_vb: （新增） -> 178a1ff8
+    position_vb: （新增） -> 8e3cf210
+    texcoord_vb: （新增） -> dd32963a
+    blend_vb: （新增） -> 6b5d6e39
 
 【本Ben】
   IB: 9c4f1a9a
@@ -442,6 +512,7 @@
 
 版本区间        | 变更角色/皮肤数 | 主要涉及角色
 ---------------|----------------|-----------------------------------------------
+2.8 → 3.0      | 9              | 哲/简/维琳娜/莱特/诺姆/赛斯/铃/露西/青衣
 2.8 → 3.0      | 6              | 哲/皮肤/泳装、铃/皮肤/泳装、星见雅-皮肤、普罗米娅、妮可（v3.01热更新）
 2.7 → 2.8      | 5              | 南宫羽、希希芙、莱特、普罗米娅、星见雅皮肤
 2.6 → 2.7      | 3              | 哲、千夏皮肤、爱芮-皮肤
@@ -453,10 +524,8 @@
 2.0 → 2.1      | 10             | 哲、铃皮肤、扳机、月城柳、本、比利、波可娜、潘引壶、格莉丝、浮波柚叶皮肤、仪玄-皮肤
 
 
-
-
 --------------------
-作者: 踩蘑菇网绿小林子制作，Github-GreenLzz-Make
+作者: 踩蘑菇网绿林小子制作，Github-GreenLzz-Make
 声明: 请勿私自转载，否则后期不再上传。
 网址1: https://github.com/hefengchang
 网址2: https://www.caimogu.cc/user/1761398.html
