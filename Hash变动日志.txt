@@ -509,3 +509,11 @@ IB: d9e49957（身体）/b4f608f5(转轮轴承)
     MaterialMap: 16a1fb10 -> 7e6747ac
     Diffuse: c13cac2c -> 89509335
     MaterialMap: 9a79cf64 -> 229c5b0f
+
+
+--------------------
+作者: 踩蘑菇网绿林小子制作，Github-GreenLzz-Make
+声明: 请勿私自转载，否则后期不再上传。
+网址1: https://github.com/hefengchang
+网址2: https://www.caimogu.cc/user/1761398.html
+--------------------
