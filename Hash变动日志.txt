@@ -1,8 +1,71 @@
 ===============================================================================
+  3.1 -> 3.2
+===============================================================================
+【蕾米埃尔Remielle】
+IB: 785b21f5 -> 28e05a59（身体）
+  draw_vb: 7a92a10a -> 97664f2f
+  position_vb: 679a1bd8 -> d16f6790
+  texcoord_vb: 9e33a8b6 -> b943ec9e
+  blend_vb: 9e8a27ae -> da54a57a
+  object_indexes: [0, 57612] -> [0, 59094]
+  object_classifications: ['A', 'B']
+
+【蕾米埃尔-白皮肤RemielleSkinWhite】
+IB: 241deac5 -> 2cd6516a（身体）
+  draw_vb: 48288582 -> df41c403
+  position_vb: 13c77c3a -> 22d04ad5
+  texcoord_vb: c55c57ce -> d637a74d
+  blend_vb: 9bca83d8 -> 5ec5e567
+  object_indexes: [0, 56376] -> [0, 56736]
+  object_classifications: ['A', 'B']
+
+【蕾米埃尔-黑皮肤RemielleSkinBlack】
+IB: f57f3e40 -> 92cb56c9（身体）
+  draw_vb: 22ec622c -> 6a0d36f2
+  position_vb: 554d46cf -> 0929171b
+  texcoord_vb: 5dcc6ee1 -> c24cc6a1
+  blend_vb: 7f6fe876 -> 93b69961
+  object_indexes: [0, 64092] -> [0, 64626]
+  object_classifications: ['A', 'B']
+  Diffuse: 0e408177 -> bb0f08b9
+  Diffuse: abb0d69d -> 578353ea
+  LightMap: 6102ae18 -> 0e9d14dc
+  LightMap: 2aab9aa7 -> 312bbc0c
+  MaterialMap: cccb8109 -> 8240c688
+  MaterialMap: e9f33a20 -> 2367a92b
+IB: 09a51ed3 -> 24a512cb（腿部）
+  draw_vb: 96dc0a8e -> ea50e1d1
+  position_vb: fa9635bc -> 11fbd4a3
+  texcoord_vb: 7c0db158 -> 14ab0adc
+  blend_vb: ff05e5f9 -> 3841a909
+  object_indexes: [0, 15618] -> [0, 15546]
+  object_classifications: ['A', 'B']
+  Diffuse: 877b0ce6 -> 017c13e4
+  Diffuse: 4c49a23c -> d0eb079f
+  LightMap: baeb2662 -> 0a902460
+  LightMap: 17b9c313 -> b9a73372
+  MaterialMap: 3b0c9e0a -> fb096287
+  MaterialMap: 2dce69bd -> 0b54d931
+
+【琉音Dialyn】
+IB: d860525e（眉毛）
+  texcoord_vb: d90368ed -> 27fd9193
+IB: facb2461（脸部）
+  texcoord_vb: f6c5296e -> dafc9647
+
+【珂蕾妲Koleda】
+IB: 0e74656e（脸）
+  Texcoord: f41b27e6 -> 57994826
+
+【薇薇安Vivian】
+IB: 39944f20（脸）
+  Texcoord: 0afe5a44 -> 50c5d703
+
+===============================================================================
   版本 3.1 -> 3.11
 ===============================================================================
 【希格莉德Sigrid】
-IB: a23aa8a3 -> 38daef11（身体）
+IB: a23aa8a3 ->38daef11（身体）
   draw_vb: 01b35c45 -> d0bf0e87
   position_vb: 08c15b45 -> e2a28287
   texcoord_vb: f6474154 -> 08ddaed3
@@ -80,9 +143,8 @@ IB: f6e96452（脸）
 
 【希格莉德-皮肤SigridSkin】
 IB: d9e49957（身体）/b4f608f5(转轮轴承)
-  Diffuse: b07c43ef -> 8874c184
-  LightMap: 5e907c41 -> 2772f644
-
+  Diffuse: 82a7f32e -> 3a0cfbd4
+  LightMap: 1b4edd7b -> cfc4ac8a
 
 =======================================================================
   版本 2.8 → 3.0
