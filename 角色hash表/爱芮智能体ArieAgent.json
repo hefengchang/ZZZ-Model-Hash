@@ -105,7 +105,7 @@
     "component_name": "Face-脸部",
     "draw_vb": "f0c79e51",
     "position_vb": "b62f2772",
-    "texcoord_vb": "9772ccda",
+    "texcoord_vb": "e619a2b8",
     "blend_vb": "ea540ea2",
     "ib": "ffa703e8",
     "object_indexes": [

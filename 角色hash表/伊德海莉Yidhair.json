@@ -162,7 +162,7 @@
     "component_name": "eyebrow-眉毛",
     "VertexLimit": "534c2f9b",
     "Position": "695ebcdc",
-    "Texcoord": "cf1a7297",
+    "Texcoord": "baf394c7",
     "Blend": "ee532c5b",
     "ib": "02072970",
     "MatchFirstIndex": [
@@ -186,7 +186,7 @@
     "component_name": "Face-脸",
     "VertexLimit": "8abeb827",
     "Position": "b0ac2b60",
-    "Texcoord": "08316415",
+    "Texcoord": "40cdb80f",
     "Blend": "de712ebf",
     "ib": "a2406060",
     "MatchFirstIndex": [

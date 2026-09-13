@@ -220,7 +220,7 @@
     "component_name": "Face-脸部",
     "draw_vb": "d70f65c1",
     "position_vb": "ed1df686",
-    "texcoord_vb": "45910aef",
+    "texcoord_vb": "b8af50ce",
     "blend_vb": "93c1ec0c",
     "ib": "d643e19a",
     "object_indexes": [

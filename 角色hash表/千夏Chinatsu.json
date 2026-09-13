@@ -119,7 +119,7 @@
     "component_name": "Eyebrow-眉毛",
     "draw_vb": "9f0ab8cd",
     "position_vb": "a5182b8a",
-    "texcoord_vb": "e3cc1981",
+    "texcoord_vb": "fd41220d",
     "blend_vb": "f5daa764",
     "ib": "30ea5791",
     "object_indexes": [
@@ -143,7 +143,7 @@
     "component_name": "Face-脸部",
     "draw_vb": "9679c257",
     "position_vb": "ac6b5110",
-    "texcoord_vb": "506dc9e1",
+    "texcoord_vb": "f5ce8320",
     "blend_vb": "21299f88",
     "ib": "1a2c8573",
     "object_indexes": [

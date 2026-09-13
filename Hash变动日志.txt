@@ -47,6 +47,80 @@ IB: 09a51ed3 -> 24a512cb（腿部）
   MaterialMap: 3b0c9e0a -> fb096287
   MaterialMap: 2dce69bd -> 0b54d931
 
+【哲Wise】
+IB: 8d6acf4e（身体）
+  Diffuse: 53b3623f -> 612c6929
+  Diffuse: a9652fa4 -> ee65d7bc
+
+【希格莉德-皮肤SigridSkin】
+IB: 84618ee0（头发）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+IB: b51bdd59（发夹）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+IB: d9e49957（身体）
+  Diffuse: 3a0cfbd4 -> b97a77bf
+  Diffuse: 8874c184 -> 7c862ede
+IB: b30db54e（尾巴）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+IB: b4f608f5（转轮轴承）
+  Diffuse: 3a0cfbd4 -> b97a77bf
+  Diffuse: 8874c184 -> 7c862ede
+
+【希格莉德Sigrid】
+IB: 84618ee0（头发）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+IB: b51bdd59（发夹）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+IB: 64d7d56f（发箍）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+IB: b20f90ea（腿部）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+IB: b30db54e（尾巴）
+  Diffuse: 66dbe05f -> cb3525dc
+  LightMap: bc582555 -> d7d68132
+  Diffuse: 0c4bea0f -> f2896dcc
+  LightMap: da6a6f0b -> 16d72691
+
+【露西-皮肤LucySkin】
+IB: 7cec7c94（帽子）
+  Diffuse: 4901de52 -> 28a02ec1
+  LightMap: ca69aa34 -> d2ba0029
+  MaterialMap: fdf85374 -> 8ea3cc55
+  Diffuse: 2cac44c0 -> 90b379de
+  LightMap: 8d155fc7 -> f1d1a335
+  MaterialMap: e96ce933 -> dfd183e8
+IB: 30abbad1（身体）
+  Diffuse: 4901de52 -> 28a02ec1
+  LightMap: ca69aa34 -> d2ba0029
+  MaterialMap: fdf85374 -> 8ea3cc55
+  Diffuse: 2cac44c0 -> 90b379de
+  LightMap: 8d155fc7 -> f1d1a335
+  MaterialMap: e96ce933 -> dfd183e8
+IB: d1e02a54（武器）
+  MaterialMap: acaa0bf6 -> 599a0d46
+  MaterialMap: a962e9eb -> 2ece6f26
+
 【琉音Dialyn】
 IB: d860525e（眉毛）
   texcoord_vb: d90368ed -> 27fd9193
@@ -61,6 +135,10 @@ IB: 0e74656e（脸）
 IB: 39944f20（脸）
   Texcoord: 0afe5a44 -> 50c5d703
 
+【薇薇安-皮肤VivianSkin】
+IB: 39944f20（脸）
+  Texcoord: 0afe5a44 -> 50c5d703
+
 【扳机Trigger】
 IB: 40cd4182（脸）
   Texcoord: d4a12ab7 -> 1132301e
@@ -72,6 +150,220 @@ IB: 321768df（脸）
 【耀佳音Astra】
 IB: 51831437（脸）
   Texcoord: ffac76ac -> 01b43c04
+
+【11号Soldier11】
+IB: bb315c43（Face 脸）
+  texcoord_vb: 39de00d5 -> f30b174b
+
+【丽娜Rina】
+IB: 9f90cfaa（脸）
+  Texcoord: 1866cf6a -> a79912e2
+
+【仪玄-皮肤YixuanSkin】
+IB: 8b067f99（脸）
+  texcoord_vb: 2e04aac2 -> 02426764
+
+【仪玄Yixuan】
+IB: 8b067f99（脸）
+  texcoord_vb: 2e04aac2 -> 02426764
+
+【伊德海莉Yidhair】
+IB: 02072970（眉毛）
+  Texcoord: cf1a7297 -> baf394c7
+IB: a2406060（脸）
+  Texcoord: 08316415 -> 40cdb80f
+
+【伊芙琳Evelyn】
+IB: ddf4efa6（脸）
+  Texcoord: aa2f560e -> b3136c51
+
+【千夏-皮肤ChinatsuSkin】
+IB: 30ea5791（眉毛）
+  texcoord_vb: e3cc1981 -> fd41220d
+IB: 1a2c8573（脸部）
+  texcoord_vb: 506dc9e1 -> f5ce8320
+
+【千夏Chinatsu】
+IB: 30ea5791（眉毛）
+  texcoord_vb: e3cc1981 -> fd41220d
+IB: 1a2c8573（脸部）
+  texcoord_vb: 506dc9e1 -> f5ce8320
+
+【南宫羽-皮肤NanGongYuSkin】
+IB: d643e19a（脸部）
+  texcoord_vb: 45910aef -> b8af50ce
+
+【南宫羽NanGongYu】
+IB: d643e19a（脸部）
+  texcoord_vb: 45910aef -> b8af50ce
+
+【卢西娅Lucia】
+IB: 84eaa4c6（眉毛）
+  texcoord_vb: 05342ce9 -> 9e121fda
+IB: 6986f28e（脸）
+  Texcoord: 9648c6d3 -> 43cb221f
+
+【可琳Corin】
+IB: a0c80593（Face脸）
+  Texcoord: 1c0725e4 -> daff87b1
+
+【叶瞬光-皮肤YeShunguangSkin】
+IB: 611df76d（眉毛）
+  texcoord_vb: 287c161c -> 014159dd
+IB: c28e6303（脸部）
+  texcoord_vb: a1353cc8 -> bf705014
+
+【叶瞬光YeShunguang】
+IB: c28e6303（脸部）
+  texcoord_vb: a1353cc8 -> bf705014
+
+【叶瞬光白毛YeShunguangWrite】
+IB: c28e6303（脸部）
+  texcoord_vb: a1353cc8 -> bf705014
+
+【奥菲丝Orphie】
+IB: ed85f33b（脸部）
+  texcoord_vb: 48191f72 -> 615a1f62
+
+【妮可-皮肤NicoleSkin】
+IB: 93b02078（脸）
+  Texcoord: d5958556 -> 31df6120
+
+【妮可Nicole】
+IB: 93b02078（脸）
+  Texcoord: d5958556 -> 31df6120
+
+【安东Anton】
+IB: a0201907（脸）
+  Texcoord: 144828a7 -> 558c7001
+
+【安比Anby】
+IB: 19df8e84（脸）
+  Texcoord: f818271a -> 3e7815b5
+
+【希希芙Cissia】
+IB: d1a31f0b（脸部）
+  texcoord_vb: dfc76798 -> 2bc69f3c
+
+【席德seed】
+IB: 09d9dca7（脸部）
+  texcoord_vb: a0dfaf80 -> 2bcb59f6
+
+【星见雅-皮肤MiyabiSkin】
+IB: dbd59d30（脸部）
+  texcoord_vb: 7a476f86 -> 60732ab5
+
+【普罗米娅Promeia】
+IB: e032287a（眉毛）
+  texcoord_vb: d3d65ca5 -> 644e5029
+IB: ef3c4506（脸部）
+  texcoord_vb: dcd61276 -> 6ca475b9
+
+【月城柳Yanagi】
+IB: 0817204c（Face脸）
+  Texcoord: 69c75b70 -> 68efc509
+
+【朱鸢ZhuYuan】
+IB: f1c241b7（脸）
+  Texcoord: 0c6f696b -> cc9f6187
+
+【柏妮思Burnice】
+IB: b3f6fcb3（脸）
+  Texcoord: 14b70725 -> 61782f72
+
+【格莉丝Grace】
+IB: 4d60568b（脸）
+  Texcoord: c3b7516b -> 63481380
+
+【波可娜Pulchra】
+IB: 62de5837（脸）
+  Texcoord: 2a29bb4e -> 75302f6a
+
+【派派Piper】
+IB: e11baad9（脸）
+  Texcoord: 58468aba -> 2fe49591
+
+【浅羽悠真Harumasa】
+IB: b0688334（脸）
+  Texcoord: 48152e31 -> 20095c2e
+
+【浮波柚叶-皮肤YuzuhaSkin】
+IB: 507384ea（脸）
+  Texcoord: 9d0f7ef5 -> 37a09c33
+
+【浮波柚叶Yuzuha】
+IB: 507384ea（脸）
+  Texcoord: 9d0f7ef5 -> 37a09c33
+
+【照Zhao】
+IB: 43c3c5a0（Face脸）
+  Texcoord: 76c4a041 -> c4618d41
+
+【爱丽丝-皮肤AliceSkin】
+IB: b078ff22（脸部）
+  texcoord_vb: 7c9dbd4a -> 0749a6d7
+
+【爱丽丝Alice】
+IB: b078ff22（脸部）
+  texcoord_vb: 7c9dbd4a -> 0749a6d7
+
+【爱芮-皮肤ArieSkin】
+IB: c0b0db5f（眉毛）
+  texcoord_vb: b7d38cbb -> aeeeaa7f
+IB: 27966f80（脸部）
+  texcoord_vb: 39d7123a -> c493b91c
+
+【爱芮Arie】
+IB: c0b0db5f（眉毛）
+  texcoord_vb: b7d38cbb -> aeeeaa7f
+IB: 27966f80（脸部）
+  texcoord_vb: 39d7123a -> c493b91c
+
+【爱芮智能体-皮肤ArieAgentSkin】
+IB: ffa703e8（脸部）
+  texcoord_vb: 9772ccda -> e619a2b8
+
+【爱芮智能体ArieAgent】
+IB: ffa703e8（脸部）
+  texcoord_vb: 9772ccda -> e619a2b8
+
+【狛野真斗Manato】
+IB: f987f156（脸）
+  Texcoord: 0fd41a37 -> 325bb10f
+
+【猫又Nekomata】
+IB: 37119851（脸）
+  Texcoord: aa036e70 -> 8bbcb25d
+
+【艾莲-皮肤EllenSkin】
+IB: f6ef8f3a（脸）
+  Texcoord: f87ddcae -> e56b3fdf
+
+【艾莲Ellen】
+IB: f6ef8f3a（Face脸）
+  Texcoord: 158fa3f3 -> ac48fc8a
+
+【苍角Soukaku】
+IB: 020f9ac6（脸）
+  Texcoord: c2db08f0 -> b3f1b714
+
+【莱卡恩Lycaon】
+IB: 6ffdfccb（Face脸）
+  Texcoord: 3adaebb3 -> b50b51c0
+
+【诺姆Norma】
+IB: d3b2ed9a（眉毛）
+  texcoord_vb: 7acc7619 -> d2e41266
+IB: 4fafb136（脸部）
+  texcoord_vb: b1412ed9 -> c1bd84e7
+
+【雨果Hugo】
+IB: 66b936fc（脸）
+  Texcoord: 99d2733a -> 0aacc89a
+
+【零号安比Soldier0】
+IB: e30ca87f（脸）
+  Texcoord: fc66ecd0 -> be99c90e
 
 ===============================================================================
   版本 3.1 -> 3.11
@@ -157,7 +449,8 @@ IB: f6e96452（脸）
 IB: d9e49957（身体）/b4f608f5(转轮轴承)
   Diffuse: 82a7f32e -> 3a0cfbd4
   LightMap: 1b4edd7b -> cfc4ac8a
-
+  Diffuse: b07c43ef -> 8874c184
+  LightMap: 5e907c41 -> 2772f644
 =======================================================================
   版本 2.8 → 3.0
 =======================================================================
@@ -287,7 +580,7 @@ IB: d9e49957（身体）/b4f608f5(转轮轴承)
   版本 2.7 → 2.8
 =======================================================================
 
-【南宫羽Nanyu】
+【南宫羽NanGongYu】
   IB: cd884c0a / 3b4190ce / 4586e530
     Diffuse: 2d290490 -> 11254966
     Diffuse: fe06152c -> dc41fbbf
