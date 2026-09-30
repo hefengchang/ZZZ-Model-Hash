@@ -2,43 +2,19 @@
   {
     "component_name": "Hair-头发",
     "draw_vb": "0ca0d1db",
-    "position_vb": "1fdb833a",
-    "texcoord_vb": "b44f7eda",
-    "blend_vb": "520d6267",
-    "ib": "2533ab1c",
+    "position_vb": "8d17b17d",
+    "texcoord_vb": "77598722",
+    "blend_vb": "831dc545",
+    "ib": "4e6e989e",
     "object_indexes": [
       0,
-      12435,
-      14712
+      11700
     ],
     "object_classifications": [
       "A",
-      "B",
-      "C"
+      "B"
     ],
     "texture_hashes": [
-      [
-        [
-          "Diffuse",
-          ".dds",
-          "ba531329"
-        ],
-        [
-          "NormalMap",
-          ".dds",
-          "ebac056e"
-        ],
-        [
-          "LightMap",
-          ".dds",
-          "7885a317"
-        ],
-        [
-          "MaterialMap",
-          ".dds",
-          "4a701d9e"
-        ]
-      ],
       [
         [
           "Diffuse",
@@ -332,12 +308,12 @@
     "component_name": "Face-脸",
     "draw_vb": "9770e8ef",
     "position_vb": "ad627ba8",
-    "texcoord_vb": "e8bed423",
-    "blend_vb": "551c5f22",
-    "ib": "75b3aa9c",
+    "texcoord_vb": "c90eb75c",
+    "blend_vb": "c0b23b8b",
+    "ib": "e40b00b2",
     "object_indexes": [
       0,
-      7350,
+      6996,
       9216
     ],
     "object_classifications": [
