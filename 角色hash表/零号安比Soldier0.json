@@ -10,6 +10,10 @@
       0,
       33762
     ],
+    "object_index_counts": [
+      33762,
+      2043
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -91,6 +95,9 @@
     "ib": "53d3f4e5",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      45762
     ],
     "object_classifications": [
       "A"

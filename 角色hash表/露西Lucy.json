@@ -10,6 +10,10 @@
       0,
       5253
     ],
+    "object_index_counts": [
+      5253,
+      4680
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -90,6 +94,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      31791
+    ],
     "object_classifications": [
       "A"
     ],
@@ -128,6 +135,9 @@
     "ib": "a0ed04de",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      5142
     ],
     "object_classifications": [
       "A"
@@ -168,6 +178,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      2436
+    ],
     "object_classifications": [
       "A"
     ],
@@ -207,6 +220,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      14184
+    ],
     "object_classifications": [
       "A"
     ],
@@ -245,6 +261,9 @@
     "ib": "1fe6e084",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      2214
     ],
     "object_classifications": [
       "A"
@@ -355,6 +374,9 @@
     "ib": "e47150d9",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      17964
     ],
     "object_classifications": [
       "A"

@@ -12,6 +12,12 @@
       34542,
       63093
     ],
+    "object_index_counts": [
+      28002,
+      6540,
+      28551,
+      2304
+    ],
     "object_classifications": [
       "A",
       "B",
@@ -119,6 +125,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      19965
+    ],
     "object_classifications": [
       "A"
     ],
@@ -158,6 +167,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      1230
+    ],
     "object_classifications": [
       "A"
     ],
@@ -196,6 +208,9 @@
     "ib": "12d52f05",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      2592
     ],
     "object_classifications": [
       "A"

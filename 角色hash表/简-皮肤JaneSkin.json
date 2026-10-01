@@ -10,6 +10,10 @@
       0,
       16986
     ],
+    "object_index_counts": [
+      16986,
+      1572
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -89,6 +93,9 @@
     "ib": "ac900322",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      68220
     ],
     "object_classifications": [
       "A"

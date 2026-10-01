@@ -11,6 +11,11 @@
       60,
       5127
     ],
+    "object_index_counts": [
+      21510,
+      5067,
+      16383
+    ],
     "object_classifications": [
       "A",
       "B",
@@ -113,6 +118,9 @@
     "ib": "af63e974",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      41523
     ],
     "object_classifications": [
       "A"

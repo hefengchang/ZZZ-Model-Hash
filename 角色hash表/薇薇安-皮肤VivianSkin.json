@@ -11,6 +11,11 @@
       10038,
       18414
     ],
+    "object_index_counts": [
+      10038,
+      8376,
+      18531
+    ],
     "object_classifications": [
       "A",
       "B",
@@ -116,6 +121,12 @@
       45882,
       46122,
       46752
+    ],
+    "object_index_counts": [
+      45882,
+      240,
+      630,
+      2592
     ],
     "object_classifications": [
       "A",
@@ -224,6 +235,9 @@
     "ib": "ec7b047c",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      264
     ],
     "object_classifications": [
       "A"

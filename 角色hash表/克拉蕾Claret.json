@@ -10,6 +10,10 @@
       0,
       15999
     ],
+    "object_index_counts": [
+      15999,
+      34176
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -86,6 +90,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      6552
+    ],
     "object_classifications": [
       "A"
     ],
@@ -125,6 +132,10 @@
     "object_indexes": [
       0,
       39828
+    ],
+    "object_index_counts": [
+      39828,
+      2244
     ],
     "object_classifications": [
       "A",
@@ -189,6 +200,10 @@
       0,
       26946
     ],
+    "object_index_counts": [
+      26946,
+      2280
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -247,6 +262,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      132
+    ],
     "object_classifications": [
       "A"
     ],
@@ -272,6 +290,11 @@
       0,
       7338,
       10362
+    ],
+    "object_index_counts": [
+      7338,
+      3024,
+      1080
     ],
     "object_classifications": [
       "A",
@@ -313,6 +336,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      12357
+    ],
     "object_classifications": [
       "A"
     ],
@@ -351,6 +377,9 @@
     "ib": "0415192c",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      1692
     ],
     "object_classifications": [
       "A"

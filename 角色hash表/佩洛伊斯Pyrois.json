@@ -9,6 +9,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      24063
+    ],
     "object_classifications": [
       "A"
     ],
@@ -47,6 +50,9 @@
     "ib": "d347d859",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      29919
     ],
     "object_classifications": [
       "A"
@@ -87,6 +93,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      5514
+    ],
     "object_classifications": [
       "A"
     ],
@@ -125,6 +134,9 @@
     "ib": "585b0241",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      4218
     ],
     "object_classifications": [
       "A"

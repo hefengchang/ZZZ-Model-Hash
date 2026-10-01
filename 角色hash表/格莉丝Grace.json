@@ -10,6 +10,10 @@
       0,
       23127
     ],
+    "object_index_counts": [
+      23127,
+      90
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -90,6 +94,10 @@
     "object_indexes": [
       0,
       42927
+    ],
+    "object_index_counts": [
+      42927,
+      3312
     ],
     "object_classifications": [
       "A",

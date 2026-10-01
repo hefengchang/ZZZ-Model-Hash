@@ -9,6 +9,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      6759
+    ],
     "object_classifications": [
       "A"
     ],
@@ -43,6 +46,10 @@
     "object_indexes": [
       0,
       55206
+    ],
+    "object_index_counts": [
+      55206,
+      60
     ],
     "object_classifications": [
       "A",

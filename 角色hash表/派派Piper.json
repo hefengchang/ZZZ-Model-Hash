@@ -10,6 +10,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      35919
+    ],
     "object_classifications": [
       "A"
     ],
@@ -69,6 +72,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      288
+    ],
     "object_classifications": [
       "A"
     ],
@@ -108,6 +114,9 @@
     "ib": "585da98b",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      30372
     ],
     "object_classifications": [
       "A"

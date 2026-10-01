@@ -10,6 +10,10 @@
       0,
       9156
     ],
+    "object_index_counts": [
+      9156,
+      1836
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -90,6 +94,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      48144
+    ],
     "object_classifications": [
       "A"
     ],
@@ -128,6 +135,9 @@
     "ib": "74688145",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      9132
     ],
     "object_classifications": [
       "A"

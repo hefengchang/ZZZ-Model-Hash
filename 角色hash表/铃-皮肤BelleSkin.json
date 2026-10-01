@@ -9,6 +9,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      13377
+    ],
     "object_classifications": [
       "A"
     ],
@@ -62,6 +65,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      108
+    ],
     "object_classifications": [
       "A"
     ],
@@ -101,6 +107,10 @@
     "object_indexes": [
       0,
       960
+    ],
+    "object_index_counts": [
+      960,
+      36
     ],
     "object_classifications": [
       "A",
@@ -164,6 +174,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      53499
+    ],
     "object_classifications": [
       "A"
     ],
@@ -202,6 +215,9 @@
     "ib": "bcc9e4e1",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      6294
     ],
     "object_classifications": [
       "A"

@@ -10,6 +10,10 @@
       0,
       13065
     ],
+    "object_index_counts": [
+      13065,
+      4890
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -90,6 +94,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      2478
+    ],
     "object_classifications": [
       "A"
     ],
@@ -128,6 +135,9 @@
     "ib": "5db95af3",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      1248
     ],
     "object_classifications": [
       "A"
@@ -168,6 +178,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      42516
+    ],
     "object_classifications": [
       "A"
     ],
@@ -207,6 +220,10 @@
     "object_indexes": [
       0,
       8289
+    ],
+    "object_index_counts": [
+      8289,
+      48
     ],
     "object_classifications": [
       "A",

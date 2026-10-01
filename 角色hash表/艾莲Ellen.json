@@ -9,6 +9,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      24321
+    ],
     "object_classifications": [
       "A"
     ],
@@ -65,6 +68,9 @@
     "ib": "e30fae03",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      41160
     ],
     "object_classifications": [
       "A"

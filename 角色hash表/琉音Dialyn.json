@@ -10,6 +10,10 @@
       0,
       6630
     ],
+    "object_index_counts": [
+      6630,
+      31062
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -86,6 +90,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      60159
+    ],
     "object_classifications": [
       "A"
     ],
@@ -124,6 +131,9 @@
     "ib": "cd519abe",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      4023
     ],
     "object_classifications": [
       "A"
@@ -164,6 +174,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      282
+    ],
     "object_classifications": [
       "A"
     ],
@@ -189,6 +202,11 @@
       0,
       7596,
       9990
+    ],
+    "object_index_counts": [
+      7596,
+      2394,
+      1248
     ],
     "object_classifications": [
       "A",
@@ -227,6 +245,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      1620
+    ],
     "object_classifications": [
       "A"
     ],
@@ -261,6 +282,9 @@
     "ib": "caa3c4ef",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      3438
     ],
     "object_classifications": [
       "A"
@@ -297,6 +321,9 @@
     "ib": "aae47bf3",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      3438
     ],
     "object_classifications": [
       "A"

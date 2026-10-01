@@ -10,6 +10,10 @@
       0,
       22296
     ],
+    "object_index_counts": [
+      22296,
+      1164
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -86,6 +90,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      864
+    ],
     "object_classifications": [
       "A"
     ],
@@ -124,6 +131,9 @@
     "ib": "64d7d56f",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      900
     ],
     "object_classifications": [
       "A"
@@ -164,6 +174,10 @@
     "object_indexes": [
       0,
       42963
+    ],
+    "object_index_counts": [
+      42963,
+      288
     ],
     "object_classifications": [
       "A",
@@ -227,6 +241,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      19182
+    ],
     "object_classifications": [
       "A"
     ],
@@ -266,6 +283,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      7383
+    ],
     "object_classifications": [
       "A"
     ],
@@ -301,6 +321,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      216
+    ],
     "object_classifications": [
       "A"
     ],
@@ -326,6 +349,11 @@
       0,
       7980,
       13080
+    ],
+    "object_index_counts": [
+      7980,
+      5100,
+      1896
     ],
     "object_classifications": [
       "A",

@@ -10,6 +10,10 @@
       0,
       21816
     ],
+    "object_index_counts": [
+      21816,
+      4476
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -91,6 +95,11 @@
       0,
       48399,
       63420
+    ],
+    "object_index_counts": [
+      48399,
+      15021,
+      684
     ],
     "object_classifications": [
       "A",
@@ -178,6 +187,10 @@
       0,
       2820
     ],
+    "object_index_counts": [
+      2820,
+      54
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -240,6 +253,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      3192
+    ],
     "object_classifications": [
       "A"
     ],
@@ -280,6 +296,11 @@
       0,
       8262,
       12720
+    ],
+    "object_index_counts": [
+      8262,
+      4458,
+      1710
     ],
     "object_classifications": [
       "A",

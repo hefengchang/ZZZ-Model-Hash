@@ -10,6 +10,10 @@
       0,
       11700
     ],
+    "object_index_counts": [
+      11700,
+      3204
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -86,6 +90,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      1704
+    ],
     "object_classifications": [
       "A"
     ],
@@ -125,6 +132,10 @@
     "object_indexes": [
       0,
       1236
+    ],
+    "object_index_counts": [
+      1236,
+      102
     ],
     "object_classifications": [
       "A",
@@ -188,6 +199,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      61305
+    ],
     "object_classifications": [
       "A"
     ],
@@ -227,6 +241,10 @@
     "object_indexes": [
       0,
       7824
+    ],
+    "object_index_counts": [
+      7824,
+      1296
     ],
     "object_classifications": [
       "A",
@@ -290,6 +308,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      198
+    ],
     "object_classifications": [
       "A"
     ],
@@ -315,6 +336,11 @@
       0,
       6996,
       9216
+    ],
+    "object_index_counts": [
+      6996,
+      2220,
+      1092
     ],
     "object_classifications": [
       "A",
@@ -356,6 +382,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      1116
+    ],
     "object_classifications": [
       "A"
     ],
@@ -394,6 +423,9 @@
     "ib": "4ce97f81",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      5976
     ],
     "object_classifications": [
       "A"
@@ -434,6 +466,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      9852
+    ],
     "object_classifications": [
       "A"
     ],
@@ -473,6 +508,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      2904
+    ],
     "object_classifications": [
       "A"
     ],
@@ -511,6 +549,9 @@
     "ib": "d127180e",
     "object_indexes": [
       0
+    ],
+    "object_index_counts": [
+      4560
     ],
     "object_classifications": [
       "A"
