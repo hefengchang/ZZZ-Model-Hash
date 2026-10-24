@@ -1,3 +1,26 @@
+===============================================================================
+  3.2 -> 3.3
+===============================================================================
+【千夏应援ChinatsuCheer】
+IB: d1e30827（头发）
+  blend_vb: a7fc2b98 -> c970fca0
+IB: 7efbdabd（身体）
+  blend_vb: 89e781e6 -> ae086472
+
+【南宫羽应援NanyuCheer】
+IB: ba598cf9（眉毛）
+  position_vb: 54106b0e -> 59074838
+
+【哲Wise/哲-皮肤WiseSkin/哲-泳装WiseSwimwear/哲校服WiseSchoolUniform】
+IB: d5ca0411（头发）/b1df5d22（背包）
+  Diffuse: 28005a5b -> e366dd6a
+  Diffuse: cb0d0c22 -> c856f8af
+
+【铃校服BelleSchoolUniform】
+IB: feb1c4cd（身体）
+  Diffuse: fd906f9b -> f8ac5047
+  Diffuse: d9dc65da -> 6e7fab40
+===============================================================================
   3.2 -> 3.21
 ===============================================================================
 【洛克茜Roxy】
@@ -501,8 +524,18 @@ IB: d9e49957（身体）/b4f608f5(转轮轴承)
   IB: 4fe696c8 -> 19a3f02e（身体）※ 模型变化不可修复
 
 【铃Belle】
-  IB: bea4a483 -> 3acf9aea（头发）※ 模型变化不可修复
-  IB: 1817f3ca -> c2b4ce3a（身体）※ 模型变化不可修复
+  IB: bea4a483(头发)弃用，使用与铃校服和道服相同的头发IB：aa9ffb85
+  新增IB：3acf9aea（发夹）
+  IB: 1817f3ca -> c2b4ce3a（身体），模型变化，由上半身一段拆分为上半身、耳环两段
+  position_vb: d2844c01 -> 5838ad30
+  texcoord_vb: 801edbf4 -> 40a897ab
+  Blend_vb: c92a17d8 -> 3ee01622
+  VertexLimitVB: ac1c8f80 -> bea2b94e
+  object_indexes: [0] -> [0, 31275]
+  object_classifications: ['A', 'B']
+
+  新增腿部IB：e6afd8d1 ，模型变化，原有头发和腿为一个整体拆分为头发和腿两部分
+  新增耳坠IB：07920753 ，由旧头发中分割出来的独立部件
   IB: 9a9780a7（脸）
     Texcoord: 1de8fc08 -> d3000b22
     Blend: 36138f65 -> 6ade3fdc
@@ -523,13 +556,22 @@ IB: d9e49957（身体）/b4f608f5(转轮轴承)
     Blend: 0c9a075b -> 359e4502
 
 【铃-泳装BelleSwimwear】
-  IB: ea055cac -> a7683988（头发）※ 模型变化不可修复
-  IB: 43ed3c22 -> 619c5c94（身体）※ 模型变化不可修复
-  IB: 69148073（T恤）
+  IB: ea055cac -> a7683988（头发），模型变化，原头发和帽子为两个部件合并为一个整体
+    VertexLimitRaise: ff8f2723 -> 898f40fc
+    Position: f0740488 -> d440bcc9
+    Texcoord: af566e38 -> b536d9e6
+    Blend: 8823a09a -> 4bb8fccc
+  IB: 43ed3c22 -> 619c5c94（身体）， 模型变化
+    VertexLimitRaise: 2ceb44ef -> 051d5424
+    Position: 537d9b9b -> b95ddd01
+    Texcoord: f5e62ded -> 91cdde70
+    Blend: 4f3ddd5c -> b36f6834
+  IB: 69148073（T恤），模型变化
     Texcoord: 881514bf -> 325b4a1c
     Blend: 0139f7e8 -> 0a00d846
     LightMap2048: e0a86379 -> 60250d24
     LightMap1024: a189eccd -> 5978a2ca
+  新增耳坠IB：07920753 ，发夹IB：3acf9aea
 
 【星见雅-皮肤MiyabiSkin】
   IB: fbb18630（衣服）
@@ -906,11 +948,3 @@ IB: d9e49957（身体）/b4f608f5(转轮轴承)
     MaterialMap: 16a1fb10 -> 7e6747ac
     Diffuse: c13cac2c -> 89509335
     MaterialMap: 9a79cf64 -> 229c5b0f
-
-
---------------------
-作者: 踩蘑菇网绿林小子制作，Github-GreenLzz-Make
-声明: 请勿私自转载，否则后期不再上传。
-网址1: https://github.com/hefengchang
-网址2: https://www.caimogu.cc/user/1761398.html
---------------------

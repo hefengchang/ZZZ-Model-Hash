@@ -1,16 +1,16 @@
 [
   {
     "component_name": "Hair-头发",
-    "draw_vb": "84a9dfca",
-    "position_vb": "a678dff4",
-    "texcoord_vb": "77932137",
-    "blend_vb": "6e583c52",
-    "ib": "3acf9aea",
+    "draw_vb": "992d149f",
+    "position_vb": "71d2bf80",
+    "texcoord_vb": "a5e62ece",
+    "blend_vb": "76a50b18",
+    "ib": "aa9ffb85",
     "object_indexes": [
       0
     ],
     "object_index_counts": [
-      180
+      13377
     ],
     "object_classifications": [
       "A"

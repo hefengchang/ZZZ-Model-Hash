@@ -385,7 +385,28 @@
       "A"
     ],
     "texture_hashes": [
-      []
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "4b8780b7"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "b8f3b02a"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "292376ef"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "ac38885c"
+        ]
+      ]
     ],
     "_author": "踩蘑菇网绿林小子制作，Github-GreenLzz-Make"
   },

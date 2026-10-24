@@ -4,7 +4,7 @@
     "draw_vb": "20a4edef",
     "position_vb": "3f76f9c3",
     "texcoord_vb": "97a6b567",
-    "blend_vb": "a7fc2b98",
+    "blend_vb": "c970fca0",
     "ib": "d1e30827",
     "object_indexes": [
       0,
@@ -89,7 +89,7 @@
     "draw_vb": "e085bc47",
     "position_vb": "a0ea50ef",
     "texcoord_vb": "85f8b8c0",
-    "blend_vb": "89e781e6",
+    "blend_vb": "ae086472",
     "ib": "7efbdabd",
     "object_indexes": [
       0,
